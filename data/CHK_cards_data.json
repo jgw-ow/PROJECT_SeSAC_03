@@ -1,0 +1,4377 @@
+[
+    {
+        "name": "ONE 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "케이뱅크",
+        "benefits": [
+            "[K-패스] 매일 대중교통 타고 교통 요금의 최대 53%까지 돌려받아요",
+            "대중교통 혜택 추가 3천원 캐시백",
+            "[모두 다 캐시백] 오프라인 0.7%, 온라인 1.2% 캐시백",
+            "[여기서 더 캐시백] 자주 쓰는 브랜드에서 최대 7% 캐시백",
+            "[369 캐시백] 3번 결제할 때마다 1,000원 캐시백",
+            "기본 혜택"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2749"
+    },
+    {
+        "name": "노리2 체크카드(KB Pay)",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "[일상] 스타벅스, 커피빈 10% 할인",
+            "[일상] 구글플레이스토어, 앱스토어 10% 할인",
+            "[일상] 인터파크 티켓 10% 할인",
+            "[일상] 올리브영, 미용실 업종 5% 할인",
+            "[일상] GS25, CU 5% 할인",
+            "[일상]넷플릭스, 유튜브프리미엄 1,000원 할인",
+            "[일상] 배달의 민족, 요기요 1,000원 할인",
+            "[일상] SKT, KT, LG U+, Liiv M 2,500원 할인",
+            "[일상] CGV 4,000원 할인",
+            "[일상] 에버랜드, 롯데월드 15,000원 할인",
+            "[KB Pay] 오프라인 가맹점 2% 추가 할인",
+            "[KB Pay] 온라인 가맹점 2% 추가 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2422"
+    },
+    {
+        "name": "신한카드 Deep Dream 체크(미니언즈)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "[모두드림] 국내/외 일시불+할부 이용 가맹점 0.2% 기본 포인트 적립",
+            "[더해드림] 자주 가는 DREAM영역은 기본의 3배 (총 0.6%) 포인트 적립",
+            "[챙겨드림] DREAM영역 중 가장 많이 이용한 영역은 기본의 5배 (총 1.0%) 포인트 자동적립",
+            "주말(토,일) 전 주유소 리터당 40원 적립",
+            "택시 3,6,9번째 1천원 할인",
+            "[반겨드림] 반겨드림 3천 포인트 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/646"
+    },
+    {
+        "name": "카카오페이 신한 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "플레이트 디자인 선택 가능",
+            "카카오페이 결제 시 2% 적립",
+            "대중교통 3% 적립",
+            "이동통신요금 3% 적립",
+            "CGV 영화 최대 3천원 적립",
+            "해외 전가맹점(온라인 포함) 이용금액 1% 적립,\n해외 인출 1건당 US $3 적립 제공",
+            "Master 플래티늄 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/286"
+    },
+    {
+        "name": "네이버페이 머니 하나 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "네이버페이 포인트 적립 서비스",
+            "플레이트 디자인 선택 가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2432"
+    },
+    {
+        "name": "PAYCO 포인트 카드",
+        "cate_txt": "체크",
+        "corp_txt": "엔에이치엔페이코",
+        "benefits": [
+            "전월 실적 / 연회비 없이 온라인 1% · 오프라인 최대 1% 적립",
+            "매월 바뀌는 브랜드에서 건당 최대 10% 적립",
+            "매월 바뀌는 브랜드에서 건당 최대 30% 할인",
+            "해외결제, 포인트결제 소득공제, ATM 출금 월 2회 무료, 교통카드기능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2310"
+    },
+    {
+        "name": "노리체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "버스·지하철 10% 청구할인",
+            "이동통신요금 2,500원 환급할인",
+            "CGV 35% 환급할인",
+            "아웃백, VIPS / 스타벅스 20% 환급할인",
+            "에버랜드·롯데월드 50% 환급할인",
+            "금융수수료 면제 서비스",
+            "GS25 5% 환급할인",
+            "교보문고 5% 환급할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/348"
+    },
+    {
+        "name": "더나은 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "MG새마을금고",
+        "benefits": [
+            "네이버페이, 카카오페이, 페이코 결제 시 이용금액의 20% 할인 캐시백",
+            "쿠팡, 무신사, 지그재그, W컨셉, 에이블리 결제 시 이용금액의 20% 할인 캐시백",
+            "스타벅스, 투썸플레이스, 커피빈, 메가커피, 빽다방, 컴포즈커피 결제 시 이용금액의 20% 할인 캐시백",
+            "해외 서비스수수료, 현금인출수수료, 예금잔액조회수수료 면제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2601"
+    },
+    {
+        "name": "네이버페이 머니카드",
+        "cate_txt": "체크",
+        "corp_txt": "네이버페이",
+        "benefits": [
+            "해외 온/오프라인 3% 적립",
+            "N트래블클럽 업그레이드",
+            "네이버 쇼핑 간편결제 최대 1.5% 적립",
+            "플러스 멤버십 스튜던트 정기결제 10% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2626"
+    },
+    {
+        "name": "네이버페이 우리카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "네이버페이 포인트 1% 적립",
+            "국내외 공항라운지 무료 이용 서비스",
+            "해외이용수수료 면제",
+            "MasterCard Platinum 서비스 제공"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/588"
+    },
+    {
+        "name": "트래블러스 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "[해외 혜택] 해외 가맹점, ATM 이용 수수료 면제",
+            "[국내 혜택] KB Pay 200원 추가 할인",
+            "[국내 혜택] 카페 1,000원 할인",
+            "[국내 혜택] 빵집 2,000원 할인",
+            "[국내 혜택] 철도 5,000원 할인",
+            "[국내 혜택] 고속버스 2,000원 할인",
+            "[국내 혜택] 주차장 500원 할인",
+            "[국내 혜택] 전국맛집 5,000원 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2691"
+    },
+    {
+        "name": "토스뱅크카드",
+        "cate_txt": "체크",
+        "corp_txt": "토스뱅크",
+        "benefits": [
+            "세가지 중 원하는 캐시백을 직접 골라요 24년 8월 1일부터 25년 2월 28일까지\n오프라인 캐시백",
+            "세가지 중 원하는 캐시백을 직접 골라요 24년 8월 1일부터 25년 2월 28일까지\n온라인 캐시백",
+            "세가지 중 원하는 캐시백을 직접 골라요 24년 8월 1일부터 25년 2월 28일까지\n어디서나 캐시백",
+            "기부 캐시백",
+            "ATM 현금 인출 수수료 혜택/해외 온・오프라인 결제 무제한 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2269"
+    },
+    {
+        "name": "신한카드 Deep Dream 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "기본 포인트 적립",
+            "추가 포인트 적립",
+            "추가 포인트 적립",
+            "주유소 적립",
+            "택시 할인",
+            "추가 포인트 적립",
+            "수수료 우대"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/281"
+    },
+    {
+        "name": "모빌리언스카드",
+        "cate_txt": "체크",
+        "corp_txt": "KG모빌리언스",
+        "benefits": [
+            "온라인 1% / 오프라인 0.5% 무제한 적립",
+            "모빌마켓 이용 시 2% 무제한 적립",
+            "GS25, 이마트24 1.5% 적립",
+            "카페/베이커리 브랜드 최대 7.5% 적립",
+            "대형마트/쇼핑/여가 브랜드 최대 6.5% 적립",
+            "외식 브랜드 최대 6.5% 적립",
+            "KFC 10% 즉시할인",
+            "KG모바일 알뜰폰 결합 시 4.5% 혜택",
+            "총 8개의 다양한 충전수단, 30% 소득공제",
+            "‘휴대폰결제(소액결제)’ 로 충전해서 비상금 만들기",
+            "페이북 및 간편결제 가능, 마이태그 캐시백 혜택 적용",
+            "휴대폰결제로 충전 후 최초 결제 시 2,000P 즉시 지급 + 매월 신규 이벤트 진행 중"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2321"
+    },
+    {
+        "name": "노리2 체크카드(Global)",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "[일상] 스타벅스, 커피빈 10% 할인",
+            "[일상] 구글플레이스토어, 앱스토어 10% 할인",
+            "[일상] 인터파크 티켓 10% 할인",
+            "[일상] 올리브영, 미용실 업종 5% 할인",
+            "[일상] GS25, CU 5% 할인",
+            "[일상]넷플릭스, 유튜브프리미엄 1,000원 할인",
+            "[일상] 배달의 민족, 요기요 1,000원 할인",
+            "[일상] SKT, KT, LG U+, Liiv M 2,500원 할인",
+            "[일상] CGV 4,000원 할인",
+            "[일상] 에버랜드, 롯데월드 15,000원 할인",
+            "[Global] 해외 가맹점 2% 할인",
+            "[Global] 공항라운지 더라운지멤버스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2423"
+    },
+    {
+        "name": "카드의정석 오하CHECK",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "[오늘 하루 SHOPPING] 온라인 쇼핑  5% 캐시백",
+            "[오늘 하루 SHOPPING] 간편결제 5% 캐시백",
+            "[오늘 하루 SHOPPING] 안경/렌즈 5% 캐시백",
+            "[오늘 하루 EAT] 커피 5% 캐시백",
+            "[오늘 하루 EAT] 배달/주문 5% 캐시백",
+            "[오늘 하루 LIFE] 대중교통(버스/지하철) 5% 캐시백",
+            "[오늘 하루 LIFE] 이동통신 5% 캐시백",
+            "[오늘 하루 LIFE] 해외 5% 캐시백",
+            "[오늘 하루 LIFE] 어학시험 5% 캐시백",
+            "[오늘 하루 PLAY] OTT 5% 캐시백",
+            "[오늘 하루 PLAY] 공연티켓 5% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2570"
+    },
+    {
+        "name": "신한카드 SOL트래블 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "해외 이용금액 현지 통화 결제 서비스",
+            "국제 브랜드 수수료(1%)/해외 서비스 수수료(0.2%) 면제",
+            "더라운지 공항라운지 본인 무료 입장",
+            "해외 대중교통 컨택리스 방식으로 이용 시 1% 결제일 할인",
+            "국내 4대 편의점 5% 결제일 할인\n국내 대중교통 1% 결제일 할인",
+            "해외이용 프로모션"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2667"
+    },
+    {
+        "name": "개이득 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우체국",
+        "benefits": [
+            "국내 전 가맹점 0.3% 캐시백",
+            "OTT 30% 캐시백",
+            "패션 30% 캐시백",
+            "멤버십 30% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2519"
+    },
+    {
+        "name": "토심이 첵첵 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "버스·지하철 2~4천원 청구할인",
+            "CU편의점 2~4천원 환급할인",
+            "스타벅스(사이렌오더 포함) 2~4천원 환급할인",
+            "CGV 2~4천원 환급할인",
+            "텐바이텐 2~4천원 환급할인",
+            "네이버페이·카카오페이·SSG페이 2~4천원 환급할인 (온라인만)",
+            "올리브영, 안경(렌즈)점 2~4천원 환급할인",
+            "YES24, 교보문고 2~4천원 환급할인 (온라인만)",
+            "인터파크티켓 2~4천원 환급할인 (온라인만)"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2604"
+    },
+    {
+        "name": "직장인보너스체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "국세·지방세 7천원 환급할인",
+            "GS칼텍스 리터당 주중 50원, 주말 60원 환급할인",
+            "스피드메이트 엔진오일교환 2만원 현장할인 및 정비 할인",
+            "SK렌터카 할인 (연 2회)",
+            "롯데·현대·신세계백화점 5% 환급할인",
+            "아웃백 10% 환급할인",
+            "버스·지하철 5% 청구할인",
+            "이동통신요금 1,000원 환급할인 (월 1회)",
+            "에버랜드 50% 환급할인",
+            "해피포인트 5% 현장적립",
+            "통합할인한도"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/350"
+    },
+    {
+        "name": "카카오뱅크 프렌즈 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "카카오뱅크",
+        "benefits": [
+            "조건 없이 캐시백, 평일 0.2% 주말/공휴일 0.4%",
+            "카카오뱅크 프렌즈 체크카드 캐시백 프로모션 2025",
+            "부릉부릉 K-패스 혜택 카드",
+            "내 마음에 드는 디자인 선택의 즐거움"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/435"
+    },
+    {
+        "name": "신한카드 On 체크(잔망루피)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "간편결제(Pay) 이용 시 최대 2% 적립",
+            "생활편의영역 이용 시 최대 2% 적립 ",
+            "해외 이용금액에 대해 1.3% 적립",
+            "카드 플레이트 선택 가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2379"
+    },
+    {
+        "name": "네이버페이 신한카드 체크 S2",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "네이버에서 결제 시 1~2% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2268"
+    },
+    {
+        "name": "청춘대로 싱글 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "편의점 업종 5~10% 환급할인",
+            "다이소/소셜커머스 5~10% 환급할인",
+            "대중교통, 택시 5% 환급할인",
+            "올리브영·박승철헤어스투디오/동물병원 10% 환급할인",
+            "해외이용/해외직구 할인캐시백",
+            "라이프샵 여행 해외패키지 3% 현장할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/335"
+    },
+    {
+        "name": "춘식이달달체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "Single Point (월~금 0.5% NH포인트 적립)\nDouble Point (토,일 1% NH포인트 적립)",
+            "Triple Point (요일 관계없이 1.5% NH포인트 적립)",
+            "Bonus Point (유튜브, 넷플릭스, 유료 어플리케이션 결제 5% NH포인트 적립)",
+            "국제공항 라운지 무료이용 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2758"
+    },
+    {
+        "name": "신한카드 Hey Young 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "플레이트 디자인 선택 가능",
+            "대중교통 이용금액 5% 캐시백",
+            "이동통신요금 자동이체 시 2천원 캐시백",
+            "CGV 영화 예매 5천원 캐시백",
+            "GS25 편의점 1천원 캐시백",
+            "스타벅스 커피 1천원 캐시백(사이렌오더, FAN사이렌 오더 포함)",
+            "쿠팡 1천원 캐시백",
+            "간편결제(Pay)로 국내 이용 시 1% 캐시백",
+            "해외 전 가맹점(온라인포함) 1.2% 캐시백\n해외인출 1건 당 US $3 캐시백 제공"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/618"
+    },
+    {
+        "name": "네이버페이 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "네이버페이포인트 1% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/460"
+    },
+    {
+        "name": "올바른POINT체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "적립한도 없이 0.2% ~ 0.7% NH포인트 적립",
+            "국제공항 라운지 무료이용",
+            "전자금융 수수료 면제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/360"
+    },
+    {
+        "name": "NH20해봄체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "해봄 선택 서비스_여행해봄/놀이해봄 Type 중 택1",
+            "[On-Line 서비스]",
+            "[Off-Line 서비스]",
+            "GS리테일 POP 서비스",
+            "주요서비스 통합 월 할인한도"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/362"
+    },
+    {
+        "name": "트래블로그 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "해외 가맹점 이용수수료 면제",
+            "해외 ATM 인출 수수료 면제",
+            "국내 가맹점 이용 시 0.3% 적립",
+            "플레이트 3종 선택"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2394"
+    },
+    {
+        "name": "K-패스 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "대중교통(버스, 지하철) 이용 시 10% 결제일 할인",
+            "간편결제로 결제 시 2% 결제일 할인",
+            "생활서비스 2% 결제일 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2693"
+    },
+    {
+        "name": "달달 하나 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "하나머니 적립 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2750"
+    },
+    {
+        "name": "카드의정석 EVERY CHECK",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "[기본 적립] 국내외 가맹점 이용금액 0.2% 적립",
+            "[추가 적립] 전월실적에 따라 최대 3천원 추가 적립",
+            "[특별 적립] 4대 일상영역 중 한 곳 1만원 적립",
+            "플레이트 3종 선택"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2552"
+    },
+    {
+        "name": "신한카드 플리 체크(산리오캐릭터즈)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "[Daily 할인] 국내 이용금액 최대 0.3% 할인, 해외 이용금액 0.2% 할인",
+            "[Weekly 할인 쿠폰] 매월 2회 국내 이용 할인 쿠폰 제공",
+            "[Monthly 단골 적립] My Pick 가맹점 월 3, 6, 9번째 이용 건에 대해 마이신한포인트 1,000포인트 적립",
+            "카드 플레이트 선택 가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2492"
+    },
+    {
+        "name": "나라사랑체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "군마트(P.X) 및 GS25 해군마트 환급할인\n군 KT공중전화 할인",
+            "GS리테일 팝서비스",
+            "대중교통(전국 버스/지하철) 20% 청구할인",
+            "CGV 35% / 스타벅스 20% / 아웃백, VIPS 20%\n/ 에버랜드, 롯데월드 현장예매 50% 환급할인",
+            "교보문고 5% 환급할인\nTOEIC, JPT 응시료 2,000원 환급할인",
+            "이동통신 자동납부 2,500원 환급할인",
+            "GS홈쇼핑, CJ홈쇼핑, G마켓, 옥션 5% 환급할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/739"
+    },
+    {
+        "name": "K-패스카드(체크)",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "[모빌리티 서비스] 버스/지하철 10% 캐시백, 렌터카/카쉐어링/전기차 충전 5% 캐시백",
+            "[라이프 서비스] 이동통신요금/커피전문점/편의점 5% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2561"
+    },
+    {
+        "name": "라이언 치즈 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "커피. 월~금 0.5% / 토,일 1% NH포인트 적립",
+            "편의점. 월~금 0.5% / 토,일 1% NH포인트 적립",
+            "영화. 월~금 0.5% / 토,일 1% NH포인트 적립",
+            "온라인쇼핑. 월~금 0.5% / 토,일 1% NH포인트 적립",
+            "배달앱. 월~금 0.5% / 토,일 1% NH포인트 적립",
+            "교통. 요일관계없이 1.5% NH포인트 적립",
+            "해외. 요일관계없이 1.5% NH포인트 적립",
+            "서점. 요일관계없이 1.5% NH포인트 적립",
+            "자기계발, 공연·전시, H&B. 요일관계없이 1.5% NH포인트 적립",
+            "유튜브, 넷플릭스, 유료 어플리케이션 결제 5% NH포인트 적립",
+            "국제공항 라운지 무료이용 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/528"
+    },
+    {
+        "name": "신한 후불 기후동행 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "후불 기후동행카드 서비스 안내",
+            "온라인 5% 할인",
+            "오프라인 5% 혜택"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2767"
+    },
+    {
+        "name": "K-패스 삼성체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "삼성카드",
+        "benefits": [
+            "대중교통 10% 캐시백",
+            "이동통신 10% 캐시백",
+            "편의점/커피전문점/제과 1,000원 캐시벡",
+            "CGV 3,000원 할인",
+            "K-패스 마일리지"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2563"
+    },
+    {
+        "name": "올바른 NEW HAVE체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "국내외 이용가맹점 0.2% NH포인트 적립 ",
+            "6개 영역 중 당월(1일~말일) 이용금액 1위/2위 영역은 기본적립의 3배/2배 자동적용",
+            "국제 공항라운지 무료이용 ",
+            "농협 인터넷·모바일·스마트·텔레뱅킹 이체수수료 통합 월 5회 면제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1765"
+    },
+    {
+        "name": "K-패스체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "포인트리 적립 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2556"
+    },
+    {
+        "name": "케이뱅크 플러스 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "케이뱅크",
+        "benefits": [
+            "모든 가맹점에서 0.3% 캐시백",
+            "최대 2만원 3% 특별 캐시백",
+            "모든 은행, GS25 ATM 수수료 무료"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/669"
+    },
+    {
+        "name": "스타체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "GS칼텍스 리터당 주중 50원, 주말 60원 환급할인",
+            "버스·지하철 5% 청구할인",
+            "이동통신요금 2,500원 환급할인",
+            "CGV 3,000원 환급할인",
+            "에버랜드 50% 환급할인",
+            "G마켓·옥션 3% 환급할인",
+            "올리브영 5% 환급할인",
+            "교보문고 3% 환급할인",
+            "아웃백·VIPS 10% 환급할인",
+            "통합할인한도"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/351"
+    },
+    {
+        "name": "위비트래블 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "해외 수수료 면제 서비스",
+            "해외 5% 캐시백",
+            "쇼핑 5% 캐시백",
+            "푸드 5% 캐시백",
+            "일상 5% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2700"
+    },
+    {
+        "name": "KB국민 기후동행체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "후불 기후동행카드 안내",
+            "할인 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2770"
+    },
+    {
+        "name": "꿀카드",
+        "cate_txt": "체크",
+        "corp_txt": "MG새마을금고",
+        "benefits": [
+            "쿠팡 로켓와우 멤버십 최대 2,900원 할인",
+            "OTT 서비스 2천원 할인",
+            "음원 스트리밍 1천원 할인",
+            "UNTACT 결제 1천원 할인(간편결제)",
+            "UNTACT 결제 1천원 할인(쇼핑)",
+            "UNTACT 결제 1천원 할인(배달앱)",
+            "해외이용 수수료 면제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2001"
+    },
+    {
+        "name": "위글위글 첵첵 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "네이버페이.카카오페이.SSG페이 최대 4천원 할인 ",
+            "버스.지하철 최대 4천원 할인",
+            "CU편의점 최대 4천원 할인",
+            "스타벅스(사이렌오더 포함) 최대 4천원 할인",
+            "CGV 최대 4천원 할인",
+            "텐바이텐 최대 4천원 할인",
+            "올리브영,안경(렌즈)점 최대 4천원 할인",
+            "YES24, 교보문고 최대 4천원 할인",
+            "인터파크티켓 최대 4천원 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/614"
+    },
+    {
+        "name": "NH 무럭이 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "[기본 적립] 국내/외 이용가맹점 0.2% NH포인트 적립",
+            "[스마트 적립] 6개 영역 중 이용금액 1위/2위 영역 기본적립의 3배/2배 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2620"
+    },
+    {
+        "name": "현대카드M CHECK",
+        "cate_txt": "체크",
+        "corp_txt": "현대카드",
+        "benefits": [
+            "업종·이용금액별 기본 M포인트 적립에 추가 M포인트 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/407"
+    },
+    {
+        "name": "K-패스 하나 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "버스/지하철 10% 캐시백 (월 3천원, 월 6천원)",
+            "다이소/올리브영 1% 캐시백 (월 1만원)",
+            "스타벅스/커피빈 1% 캐시백 (월 5천원)"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2682"
+    },
+    {
+        "name": "K-패스(체크)",
+        "cate_txt": "체크",
+        "corp_txt": "IBK기업은행",
+        "benefits": [
+            "대중교통 건당 100원 할인",
+            "커피 10% 할인",
+            "쇼핑 10% 할인",
+            "편의점 5% 할인",
+            "영화 4천원 할인",
+            "놀이공원 본인 무료입장 또는 자유이용권 최대 50% 할인",
+            "금융우대서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2562"
+    },
+    {
+        "name": "카드의정석 EVERYDAY CHECK",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "[기본 적립] 국내/해외 가맹점 0.2% 적립",
+            "[추가 적립] 우리페이 0.5% 추가 적립",
+            "[특별 적립] 생활소비 1% 특별 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2742"
+    },
+    {
+        "name": "올리 POINT 체크",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "국내/외 이용가맹점 0.2% NH포인트 적립",
+            "아래 6개 영역 중 당월(1일~말일) 이용금액 1위/2위 영역은 기본적립의 3배/2배 자동적용",
+            "국제공항 라운지 무료이용"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/676"
+    },
+    {
+        "name": "기후동행카드(체크)",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "[온라인] 온라인 쇼핑몰 10% 청구할인",
+            "[온라인] 온라인 서점 10% 청구할인",
+            "[온라인] 어학시험 10% 청구할인",
+            "[온라인] CGV 온라인 예매(홈페이지, 모바일앱) 2,000원 청구할인",
+            "[온라인] 배달앱(배달의 민족, 요기요) 3% 청구할인",
+            "[오프라인] 이동통신 자동납부 2,500원 청구할인",
+            "[오프라인] 커피(스타벅스, 이디야) 10% 청구할인",
+            "[오프라인] GS25 3% 청구할인",
+            "[보너스 서비스] 놀이공원 할인 서비스",
+            "\n후불 기후동행카드 이용 관련"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2773"
+    },
+    {
+        "name": "삼성체크카드 & CASHBACK",
+        "cate_txt": "체크",
+        "corp_txt": "삼성카드",
+        "benefits": [
+            "업종 및 연간 이용금액에 따라 0.2%~0.6% 캐시백",
+            "CGV 3,000원 할인",
+            "놀이공원 자유이용권 50%·워터파크 입장권 30% 현장할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/394"
+    },
+    {
+        "name": "어디서나 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우체국",
+        "benefits": [
+            "전통시장 10% 캐시백,\n대형마트, 6대 홈쇼핑, 다이소 5% 캐시백",
+            "음식점 5%포인트 적립,\n파리바게트, 뚜레쥬르, 엔제리너스, 카페베네, 스타벅스, 이디야, 폴바셋 5% 포인트 적립",
+            "SK주유 L당 40원 포인트 적립,\n알뜰주유 L당 100원 포인트 적립",
+            "메가박스 현장구매, 홈페이지 예매시 5% 캐시백,\nYes24, 교보문고(인터넷) 5% 캐시백",
+            "우편, 택배, EMS, 우표구매, 우체국쇼핑 10% 포인트 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/571"
+    },
+    {
+        "name": "트래블GO 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "해외 가맹점 이용 수수료 면제 · 해외 ATM 인출 수수료 면제",
+            "국내 가맹점 하나머니 적립 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2740"
+    },
+    {
+        "name": "가온 올포인트 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "국내외 가맹점 0.2% 포인트리 기본 적립",
+            "커피/제과아이스크림 업종 0.2% 포인트리 추가 적립",
+            "이동통신요금 자동이체 시 0.2% 포인트리 추가 적립",
+            "GS25 편의점 0.2% 포인트리 추가 적립",
+            "대중교통(버스, 지하철), 택시 0.2% 포인트리 추가 적립",
+            "대형마트 0.8% 포인트리 추가 적립",
+            "GS칼텍스 주유소 0.8% 포인트리 추가 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/454"
+    },
+    {
+        "name": "IBK 나라사랑카드",
+        "cate_txt": "체크",
+        "corp_txt": "IBK기업은행",
+        "benefits": [
+            "전국 시내버스/지하철, KTX(철도)/SRT/고속버스 할인",
+            "군 공중전화요금 자동이체 시 10% 할인",
+            "CU 및 군마트(PX)할인",
+            "이니스프리 온/오프라인 매장 상시 10% 할인",
+            "CGV 3천원 현장할인(동반1인 포함 시)",
+            "아웃백스테이크 20% 현장할인",
+            "주요 놀이공원 본인 자유이용권 50% 현장할인",
+            "여기어때 결제금액 매월 최대 1만원 청구할인",
+            "인터넷 토익시험 접수(결제) 및 온라인서적(교보문고) 구매시 2천원 청구할인",
+            "군 복무 중 은행 ATM 출금수수료 무제한 면제",
+            "그린카드 멤버십 서비스 및 Syrup 통합 멤버십 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/446"
+    },
+    {
+        "name": "NH트래블리체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "[국내 서비스] 국내 가맹점 0.2~0.3% 캐시백",
+            "[국내 가맹점] 일상 가맹점 0.6% 캐시백",
+            "[해외 서비스] 외화 결제/인출 서비스",
+            "[해외 서비스] 자동충전 서비스",
+            "[해외 서비스] 해외 이용 수수료 면제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2727"
+    },
+    {
+        "name": "스타플러스 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "스타벅스, 커피빈 10% 할인",
+            "구글플레이스토어, 앱스토어 10% 할인",
+            "인터파크 티켓 10% 할인",
+            "올리브영, 미용실 업종 5% 할인",
+            "GS25, CU 5% 할인",
+            "넷플릭스, 유튜브프리미엄 1,000원 할인",
+            "배달의 민족, 요기요 1,000원 할인",
+            "SKT, KT, LG U+, Liiv M 2,500원 할인",
+            "CGV 4,000원 할인",
+            "에버랜드, 롯데월드 15,000원 할인",
+            "해외 가맹점 2% 할인",
+            "공항라운지 더라운지멤버스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2588"
+    },
+    {
+        "name": "그랑블루 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "GIFT VOUCHER (연 1회, 택1회)",
+            "사용업종 또는 결제건당 금액에 따라 0.3~1% 모아포인트 적립",
+            "체크 브랜드별 공항라운지 이용 서비스",
+            "[Travel Service] 국내외 여행 관련 서비스 제공",
+            "치킨, 피자 10% 청구할인",
+            "전국 영화관 3,000원 청구할인",
+            "골프 우대 서비스 및 자전거 무료 세척 서비스",
+            "SK주유 및 충전 시 리터당 60원 청구할인 "
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/325"
+    },
+    {
+        "name": "트래블페이 충전카드",
+        "cate_txt": "체크",
+        "corp_txt": "트래블월렛",
+        "benefits": [
+            "트래블페이: 31개 외화를 미리 충전하고, 수수료 없이 해외결제",
+            "카드 하나에 모든 외화 충전\nVISA 가맹점에서 수수료 없이 카드 결제 가능",
+            "원하는 시점, 원하는 환율에 외화 충전 / 환전\n주요 통화는 환전 수수료 무료, 기타 통화는 환전 수수료 0.5% ~ 2.5%로 국내 최저"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2320"
+    },
+    {
+        "name": "KB국민 우리동네 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "세탁소 10% 할인",
+            "정육점 10% 할인",
+            "슈퍼마켓 5% 할인",
+            "반찬가게 5% 할인",
+            "야채과일가게 5% 할인",
+            "번개장터(번개페이) 5% 할인",
+            "카드 디자인 선택 가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2332"
+    },
+    {
+        "name": "노리2 체크카드(Play)",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "[일상] 스타벅스, 커피빈 10% 할인",
+            "[일상] 구글플레이스토어, 앱스토어 10% 할인",
+            "[일상] 인터파크 티켓 10% 할인",
+            "[일상] 올리브영, 미용실 업종 5% 할인",
+            "[일상] GS25, CU 5% 할인",
+            "[일상] 넷플릭스, 유튜브프리미엄 1,000원 할인",
+            "[일상] 배달의민족, 요기요 1,000원 할인",
+            "[일상] SKT, KT, LG U+, Liiv M 2,500원 할인",
+            "[일상] CGV 4,000원 할인",
+            "[일상] 에버랜드, 롯데월드 15,000원 할인",
+            "[Play] PC방 업종 10% 할인",
+            "[Play] 패스트푸드 업종 1,000원 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2550"
+    },
+    {
+        "name": "신한카드 주거래 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "모든 가맹점 0.3% 포인트 적립",
+            "신한은행 결제 계좌 연결 제공 서비스(추가 포인트 적립)",
+            "주거래Package"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/284"
+    },
+    {
+        "name": "체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "농협판매장 NH포인트 적립",
+            "농협운영주유소, GS칼텍스 적립 및 할인",
+            "문화서비스 할인",
+            "외화 환전 우대 서비스",
+            "기타 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/499"
+    },
+    {
+        "name": "영리한 PLUS 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우체국",
+        "benefits": [
+            "유튜브프리미엄, 넷플릭스, 웨이브, 티빙, 멜론, 지니 20% 캐시백",
+            "11번가, G마켓, 옥션, 쿠팡, 위메프, 티몬 15% 캐시백",
+            "배달의민족, 요기요, 쿠팡이츠 15% 캐시백",
+            "스타벅스, 투썸플레이스, 이디야 5% 캐시백",
+            "올리브영, 랄라블라, 다이소, GS25, CU, 이마트24 5% 캐시백",
+            "우편요금, 인터넷우체국, 우체국쇼핑, EMS 5% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2227"
+    },
+    {
+        "name": "카카오페이 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "카카오페이, 통신요금자동이체, 커피, 대중교통 캐시백",
+            "카드플레이트 디자인 선택 가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/382"
+    },
+    {
+        "name": "카카오페이카드3",
+        "cate_txt": "체크",
+        "corp_txt": "카카오페이",
+        "benefits": [
+            "[MZ 라이프팩] 최대 40,000P 적립\n(2023.7.1~2023.12.31)",
+            "[어디서나 적립팩] 국내 모든 가맹점에서 최대 0.4% 적립\n(2023.7.1 ~ 2023.12.31)",
+            "전국 편의점, 지하철 ATM 수수료 무료",
+            "마음에 드는 카드를 선택하세요"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2303"
+    },
+    {
+        "name": "하나 기후동행체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "캐시백 서비스",
+            "후불교통 기능 이용안내"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2768"
+    },
+    {
+        "name": "IBK무민카드(체크)",
+        "cate_txt": "체크",
+        "corp_txt": "IBK기업은행",
+        "benefits": [
+            "버스, 지하철 이용건당 100원 할인",
+            "쿠팡, 티몬, 위메프 10% 할인",
+            "GS25, CU, 세븐일레븐, 올리브영 5% 할인",
+            "CGV, 롯데시네마, 메가박스 4천원 할인",
+            "주요 커피전문점 10% 할인",
+            "금융우대서비스",
+            "주요 놀이공원 무료입장 또는 입장료/자유이용권 할인 (월 1회, 연 2회)"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/674"
+    },
+    {
+        "name": "신한카드 Pick I 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "4대 편의점 이용 시 10% 적립",
+            "커피 업종 이용 시 10% 적립",
+            "해외 이용금액 1% 적립",
+            "디지털 구독 영역 이용 시 10% 적립",
+            "One Pick 온라인 쇼핑몰 가맹점 최대 3천 포인트 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2527"
+    },
+    {
+        "name": "어피치 스윗 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "올원페이, 카카오페이, 삼성페이 온라인결제 3% 할인",
+            "스타벅스, 투썸플레이스, 커피빈 4% 할인",
+            "올리브영, 랄라블라 4% 할인",
+            "유튜브프리미엄, 넷플릭스, 유료 어플리케이션 5% 할인",
+            "국제공항 라운지 무료이용 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/586"
+    },
+    {
+        "name": "해피리워드 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "[Reward ON]\n해피오더/해피마켓/해피페이 결제 시 1,000원 환급할인",
+            "[Reward OFF]\n해피가맹점(파리바게뜨, 던킨도너츠, 배스킨라빈스, 파스쿠찌) 결제 시 1,000원 환급할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2335"
+    },
+    {
+        "name": "롯데체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "롯데카드",
+        "benefits": [
+            "전국 가맹점 및 SK주유소 이용 시 적립혜택",
+            "해외이용 안내"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/403"
+    },
+    {
+        "name": "able Premier Members 카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB증권",
+        "benefits": [
+            "언제 어디서든 한도없이, 사용 금액의 0.5% 무제한 캐시백",
+            "현장할인서비스\n높은 할인율과 다양한 제휴처!"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2225"
+    },
+    {
+        "name": "행복한 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우체국",
+        "benefits": [
+            "병원·의원, 모든 약국 10% 캐시백",
+            "학원 10% 캐시백",
+            "마트 10% 캐시백",
+            "문화 10% 캐시백",
+            "순수 우편서비스 12% · 우체국쇼핑 10% 캐시백\n지자체 시설 무료입장 및 할인, 에코머니 적립 등"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/585"
+    },
+    {
+        "name": "신한카드 Pick E 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "4대 편의점 이용 시 10% 적립",
+            "커피 업종 이용 시 10% 적립",
+            "해외 이용금액 1% 적립",
+            "놀이 영역 이용 시 10% 적립",
+            "One Pick 맛집 가맹점 최대 3천 포인트 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2528"
+    },
+    {
+        "name": "카드의정석 APT CHECK",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "아파트관리비(공공 임대료) 3천~10천원 캐시백",
+            "유튜브 프리미엄 정기권 30% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/545"
+    },
+    {
+        "name": "신한카드 Global Air 스카이패스 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "마일리지 적립 서비스",
+            "해외 인출 1건당 US $3 캐시백 제공",
+            "VISA 플래티늄 서비스 제공"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/642"
+    },
+    {
+        "name": "하나멤버스 Mega 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "요식/마트/백화점/온라인쇼핑/주유/병원/ 2만원당 200 하나머니 적립\nSKT/KT/LGU+ 자동이체 적립(월1회) 3천~5천 하나머니 적립",
+            "하나멤버스 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/388"
+    },
+    {
+        "name": "민 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "이마트·롯데마트·홈플러스 5% 환급할인",
+            "SK에너지 리터당 60원 환급할인",
+            "스피드메이트 엔진오일교환 2만원 현장할인 및 정비 할인",
+            "패스트푸드 10% 환급할인",
+            "이동통신요금 2,500원 환급할인",
+            "버스·지하철 5% 청구할인",
+            "CU편의점 3% CU포인트 적립",
+            "통합할인한도"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/346"
+    },
+    {
+        "name": "신한 슈퍼SOL 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "모든 가맹점 0.3% 포인트 적립",
+            "생활가맹점 총 2% 포인트 적립 (기본 0.3%+추가 1.7%)",
+            "쇼핑가맹점 총 1% 포인트 적립(기본 0.3%+추가 0.7%)",
+            "해외 가맹점 이용금액 총 1% 포인트 적립(기본 0.3%+추가 0.7%)"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/638"
+    },
+    {
+        "name": "현대카드M HYBRID",
+        "cate_txt": "체크",
+        "corp_txt": "현대카드",
+        "benefits": [
+            "당월 이용금액별 M포인트 적립",
+            "체크결제와 신용결제 서비스를 한번에"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/414"
+    },
+    {
+        "name": "가온체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "모든 가맹점 포인트리 기본적립",
+            "음식점, 커피전문점 업종 포인트리 추가적립",
+            "대중교통, 택시 포인트리 추가적립",
+            "이동통신요금 포인트리 추가적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/336"
+    },
+    {
+        "name": "카카오페이 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "MG새마을금고",
+        "benefits": [
+            "카카오페이 15% 할인",
+            "편의점 5% 할인",
+            "온라인쇼핑 10% 할인",
+            "어학시험 2천원 할인",
+            "영화 2천원 할인",
+            "커피 10% 할인",
+            "패스트푸드 10% 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2094"
+    },
+    {
+        "name": "당근머니 하나 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "당근머니 적립 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2721"
+    },
+    {
+        "name": "미래에셋증권 체크카드(할인 2)",
+        "cate_txt": "체크",
+        "corp_txt": "미래에셋증권",
+        "benefits": [
+            "커피전문점 10% 할인",
+            "편의점 10% 할인\n마트 5% 할인",
+            "디지털구독 10% 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2216"
+    },
+    {
+        "name": "카카오뱅크 mini카드",
+        "cate_txt": "체크",
+        "corp_txt": "카카오뱅크",
+        "benefits": [
+            "오프라인은 물론 온라인에서도 결제",
+            "CU에서는 현금없이 카드로 티머니 간편충전!",
+            "전국 ATM 어디서나 수수료 무료!"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/686"
+    },
+    {
+        "name": "FANtastic S 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "간편결제(FAN페이) 15% 캐시백",
+            "소셜커머스(쿠팡,티몬) 10% 캐시백",
+            "편의점(CU) 10% 캐시백",
+            "커피(스타벅스) 10% 캐시백",
+            "해외 전 가맹점 이용액(온라인 포함) 1.2% 캐시백\n해외인출 1건당 US $3 캐시백",
+            "통합캐시백한도"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/278"
+    },
+    {
+        "name": "GS리테일 NH농협체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "GS리테일 점내 이용 시 2% GS&POINT 적립",
+            "국내 이용금액의 0.2%, 국외 이용금액의 1% NH포인트 적립",
+            "국제공항 라운지 무료이용 연 1회 제공"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2437"
+    },
+    {
+        "name": "카카오페이 트래블로그 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "국내 가맹점 카카오페이 포인트 적립 서비스",
+            "해외 이용수수료 면제 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2775"
+    },
+    {
+        "name": "카드의정석 DON CHECK",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "[DO EAT] 편의점, 배달의민족 5% 적립",
+            "[DO BUY] 쿠팡, 무신사 5% 적립",
+            "[DO PLAY] 구글 Play스토어, 애플 APP Store 5% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2639"
+    },
+    {
+        "name": "현대카드M CHECK-경차전용카드(유류세 환급)",
+        "cate_txt": "체크",
+        "corp_txt": "현대카드",
+        "benefits": [
+            "월 100만원 미만 이용 시 0.5% M포인트 적립\n월 100만원 이상 이용 시 1% M포인트 적립",
+            "정부 유류세환급제도 지원",
+            "프로스포츠 입장권 할인",
+            "주유/정비·외식·쇼핑·영화 등 제휴 사용처에서 M포인트 사용"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2197"
+    },
+    {
+        "name": "2030 언택트 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "BNK부산은행",
+        "benefits": [
+            "스타벅스 최대 3,000원 할인",
+            "배달의 민족, 요기요 최대 3,000원 할인",
+            "쿠팡, 마켓컬리, SSG닷컴 최대 3,000원 할인",
+            "넷플릭스, 유튜브프리미엄, 멜론 20% 청구할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2507"
+    },
+    {
+        "name": "신한카드 하이패스(전용) 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "하이패스 이용요금의 0.1% 포인트 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/391"
+    },
+    {
+        "name": "TMAP & LOGI 행복 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "버스·지하철 10% 청구할인",
+            "이동통신요금 5% 환급할인",
+            "CGV 35% 환급할인",
+            "아웃백, VIPS 20% 환급할인",
+            "스타벅스 20% 환급할인",
+            "에버랜드·롯데월드 50% 환급할인",
+            "금융수수료 면제 서비스",
+            "GS25 5% 환급할인",
+            "교보문고 5% 환급할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2568"
+    },
+    {
+        "name": "삼성체크카드 & POINT",
+        "cate_txt": "체크",
+        "corp_txt": "삼성카드",
+        "benefits": [
+            "업종 및 연간 이용금액에 따라 0.2%~0.8% 빅포인트 적립",
+            "CGV 3,000원 할인",
+            "놀이공원 자유이용권 50%·워터파크 입장권 30% 현장할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/393"
+    },
+    {
+        "name": "카카오뱅크 개인사업자 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "카카오뱅크",
+        "benefits": [
+            "매일 가는 곳은 혜택 고민 없이 0.3% 캐시백",
+            "사업운영에 꼭 필요한 곳에서 3% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2421"
+    },
+    {
+        "name": "일상의 기쁨카드(체크)",
+        "cate_txt": "체크",
+        "corp_txt": "IBK기업은행",
+        "benefits": [
+            "버스, 지하철 이용건당 100원 할인",
+            "GS25, CU, 세븐일레븐 5% 할인",
+            "올리브영 5% 할인",
+            "쿠팡, 티켓몬스터, 위메프 10% 할인",
+            "CGV, 롯데시네마, 메가박스 4천원 할인",
+            "주요 커피전문점 10% 할인",
+            "금융우대서비스",
+            "주요 놀이공원 무료입장 또는 입장료/자유이용권 할인",
+            "통합할인한도"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/441"
+    },
+    {
+        "name": "DC줌체크카드(비씨)",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "대중교통(버스, 지하철) 10% 청구할인",
+            "주요 커피 전문점 10% 청구할인",
+            "주요 온라인쇼핑몰·소셜커머스 10% 청구할인",
+            "주요 패밀리레스토랑 10% 청구할인",
+            "주요 서점 10% 청구할인",
+            "전국 병원·약국 10% 청구할인",
+            "전국 주요 영화관 1,500원 청구할인",
+            "SMS 휴대폰 바로알림 서비스",
+            "통합할인한도"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/365"
+    },
+    {
+        "name": "IBK 무직타이거 카드(체크)",
+        "cate_txt": "체크",
+        "corp_txt": "IBK기업은행",
+        "benefits": [
+            "버스, 지하철 이용건당 100원 할인",
+            "GS25, CU, 세븐일레븐, 올리브영 5% 할인",
+            "쿠팡, 티몬, 위메프 10% 할인",
+            "CGV, 메가박스, 롯데시네마 4천원 할인",
+            "주요 커피전문점 10% 할인",
+            "금융우대서비스(결제계좌를 IBK 기업은행 입출식 통장으로 이용 시)",
+            "놀이공원 최대 50% 할인 (월 1회, 연 2회 제공)"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1490"
+    },
+    {
+        "name": "더담은 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "MG새마을금고",
+        "benefits": [
+            "대상가맹점 결제 시 2천원 할인",
+            "전국 주유소 및 충전소, 전기차충전소 결제 시 1천원 할인캐시백",
+            "음식점 업종 결제 시 1천원 할인캐시백",
+            "대상가맹점 결제 시 1천원 할인",
+            "GS25, CU, 세븐일레븐, 이마트24 결제 시 500원 할인캐시백",
+            "해외 서비스수수료, 현금(예금)인출수수료, 예금잔액조회수수료 면제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2745"
+    },
+    {
+        "name": "트래블제로카드",
+        "cate_txt": "체크",
+        "corp_txt": "코나카드",
+        "benefits": [
+            "해외 결제 시점, 알아서 자동 환전 + 환전 수수료 면제",
+            "해외 가맹점 결제 수수료 면제\n해외 ATM 출금 수수료 면제",
+            "해외 직구도 수수료 면제",
+            "국내 온라인/오프라인 실적 상관없이 무조건 무제한 0.3% 캐시백",
+            "국내 커피빈 / CGV 실적 상관없이 무조건 즉시할인",
+            "국내 대중교통 기능 지원"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2582"
+    },
+    {
+        "name": "Smart Cashback 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "전북은행",
+        "benefits": [
+            "건당 이용금액 구간별 0.2% ~ 1.2% 캐시백 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2191"
+    },
+    {
+        "name": "VIVA+ 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "해외 이용 수수료 면제 서비스\n해외 인출 수수료 우대 서비스",
+            "Lunch Time 7% 캐쉬백 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/378"
+    },
+    {
+        "name": "케이뱅크 X KT멤버십더블혜택 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "케이뱅크",
+        "benefits": [
+            "KT통신요금 5~20%캐시백",
+            "KT멤버십 제휴가맹점 할인, POP CARD 할인 및 GS&POINT 적립",
+            "모든 은행, GS25 ATM / 해외 결제 및 ATM 인출수수료 무료"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/436"
+    },
+    {
+        "name": "NH올원체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "전월실적에 상관없이 0.2 ~ 0.4% 적립",
+            "제휴멤버십 서비스",
+            "기타서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/368"
+    },
+    {
+        "name": "VIVA X 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "해외 가맹점 이용 수수료 면제 서비스",
+            "해외 ATM 인출 수수료 면제 서비스",
+            "국내 가맹점 0.3% 캐쉬백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/749"
+    },
+    {
+        "name": "드림플러스 아시아나 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우체국",
+        "benefits": [
+            "할인가맹점 이용액 1,500원 당 1마일리지 적립,\n그 외 전 가맹점 이용액 2,500원 당 1마일리지 적립",
+            "해외 이용 시 1% 캐시백",
+            "쿠팡, 티몬, 위메프 5% 캐시백",
+            "GS25, CU, 세븐일레븐 5% 캐시백\n홈플러스, 이마트, 이마트 트레이더스, 롯데마트, 롯데VIC마켓 5% 캐시백",
+            "스타벅스, 투썸플레이스, 이디야 5% 캐시백",
+            "SK주유 L당 40원 할인",
+            "면세점 5% 캐시백",
+            "CGV, 롯데시네마, 메가박스 5% 캐시백",
+            "우체국 서비스(우편, 쇼핑) 5% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/574"
+    },
+    {
+        "name": "able 카드 Ⅱ",
+        "cate_txt": "체크",
+        "corp_txt": "KB증권",
+        "benefits": [
+            "대형마트 이용금액의 5% 할인",
+            "온라인쇼핑몰 이용금액의 5% 할인",
+            "배달 앱 이용금액의 5% 할인",
+            "주유 시 리터당 40원 할인",
+            "현장할인서비스\n특급호텔, F&B, 유명 레스토랑 Life 스타일 제휴처 현장할인",
+            "출금 및 이체수수료 면제 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2219"
+    },
+    {
+        "name": "BAZIC(베이직)체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "국내·외 전 가맹점 0.2~0.3% 청구할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/370"
+    },
+    {
+        "name": "DB금융투자 해피플러스 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "DB금융투자",
+        "benefits": [
+            "모든 가맹점 0.3% 캐쉬백",
+            "GS칼텍스 리터당 100원 캐쉬백",
+            "이동통신요금 5,000원 할인",
+            "수시입출금의 편리함과 주식거래, 고금리를 하나의 계좌로,\n결제계좌 이체/출금 수수료 면제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2220"
+    },
+    {
+        "name": "하나로 전자카드 메가캐쉬백 더드림 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "생활 밀착 업종 사용금액 2만원당 200원 캐쉬백\n그외 업종 사용금액 2만원당 100원 캐쉬백",
+            "G마켓/옥션 결제시 2만원당 400마일리지 적립, G마켓 SVIP+옥션 VIP 서비스\nCU편의점 결제시 CU 포인트 2% 적립 ＋OK캐쉬백 1% 동시적립",
+            "KEB하나은행 자동화기기(CD/ATM) 수수료 월 10회 면제",
+            "해외에서 ATM 사용 및 물품구매 가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2475"
+    },
+    {
+        "name": "해피포인트 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "해피포인트 더블 체크카드",
+            "해피포인트 하나 체크카드"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/383"
+    },
+    {
+        "name": "브라보(Bravo) 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우체국",
+        "benefits": [
+            "[생활 Life] 모든 음식점 5% 캐시백",
+            "[생활 Life] 롯데마트, 이마트, 홈플러스 5% 캐시백",
+            "[생활 Life] 전기차 충전 5% 캐시백",
+            "[생활 Life] SK주유 L당 40원 캐시백",
+            "[건강 Life] 모든 약국 10% 캐시백",
+            "[건강 Life] 정관장 10% 캐시백",
+            "[건강 Life] 골프장, 골프연습장, 스크린골프장 10% 캐시백",
+            "[문화 Life] CGV, 메가박스, 롯데시네마 15% 캐시백",
+            "[문화 Life] 교보문고(온・오프라인) 15% 캐시백",
+            "[문화 Life] 국내 숙박업종 15% 캐시백",
+            "[안전 Life] 해외원화결제(DCC)차단 서비스 기본설정・터치 기능 제공",
+            "[글로벌 Life] 해외 ATM 현금인출 수수료(건당 $3) 면제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2628"
+    },
+    {
+        "name": "신한카드 S-Line 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "전 가맹점 이용금액의 0.2% ~ 0.5% 마이신한포인트 적립",
+            "요식업종 이용금액의 5% 할인",
+            "버스, 지하철 이용금액의 5% 할인(후불교통 카드 선택 시)\nSK주유소 주유 시 리터당 40원 할인(후불교통카드 미 선택 시)",
+            "홈쇼핑 이용금액의 5% 할인\n해외 이용금액의 5% 할인",
+            "금융 우대 서비스",
+            "신한카드 S-Line 체크 할인한도"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/294"
+    },
+    {
+        "name": "농부의마음 Farmers Heart 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "일상생활, 농협계통업종, 농업관련업종 NH포인트 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/498"
+    },
+    {
+        "name": "아시아나 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "전가맹점 2,500원당 1마일 적립",
+            "소셜커머스, 스타벅스, 파리바게뜨 5% 환급할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/334"
+    },
+    {
+        "name": "알뜰교통 비바 e 플래티늄 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "대중교통 15% 캐시백",
+            "국내 온라인 쇼핑 최대 5천원 캐시백",
+            "해외 직접 구매 배송 대행료 20% 할인,\n해외 이용 수수료 우대"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/746"
+    },
+    {
+        "name": "카드의정석 L.POINT CHECK",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "L.POINT 0.3 ~ 1% 적립",
+            "롯데월드 아쿠아리움 입장권 및 놀이공원 자유이용권 50% 현장할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/316"
+    },
+    {
+        "name": "GS칼텍스 신한카드 경차사랑 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "경차 유류세 환급 서비스",
+            "GS칼텍스 주유할인 서비스(LPG포함)",
+            "DB손해보험 다이렉트 자동차보험 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/303"
+    },
+    {
+        "name": "국민행복 체크카드 S2",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "쇼핑/생활 업종(백화점, 대형할인점, 온라인쇼핑, 이동통신, 생활월납, 렌탈) 2% 캐시백",
+            "의료(임신·출산) / 보육(교육) 업종 3% 캐시백",
+            "언택트 라이프 업종(영상, 음원, 전자도서, 멤버십) 10% 캐시백",
+            "해외가맹점(해외직구 포함) 이용금액 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/722"
+    },
+    {
+        "name": "누리체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "모든 가맹점 기본 환급할인 및 주말·공휴일 추가 환급할인",
+            "음식점, 커피전문점 업종 추가 환급할인",
+            "대중교통(버스·지하철), 택시 추가 환급할인",
+            "이동통신요금 추가 환급할인",
+            "해외이용 1% 할인캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/338"
+    },
+    {
+        "name": "롯데 국민행복 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "롯데카드",
+        "benefits": [
+            "국민행복카드란?",
+            "행복 맞춤 서비스",
+            "출산육아 특별서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/404"
+    },
+    {
+        "name": "신협 어부바 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "신협",
+        "benefits": [
+            "편의점 10% 더블캐시백",
+            "커피전문점 10% 더블캐시백",
+            "패스트푸드 10% 더블캐시백",
+            "도서 5% 캐시백",
+            "CJ올리브영, GS왓슨시, 다이소 5% 캐시백",
+            "그린카 5% 캐시백",
+            "영화 티켓 3천원 캐시백",
+            "어학시험 응시료 3천원 캐시백",
+            "이동통신요금 3천원 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1463"
+    },
+    {
+        "name": "쏘영 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "멜론, YouTube Premium 5% 환급할인",
+            "문구점 5% 환급할인\n독서실 5% 환급할인",
+            "GS25, CU편의점 5% 환급할인",
+            "패스트푸드점 5% 환급할인",
+            "대중교통(버스, 지하철) 5% 청구할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/680"
+    },
+    {
+        "name": "KDB Choice 하이브리드 카드",
+        "cate_txt": "체크",
+        "corp_txt": "KDB산업은행",
+        "benefits": [
+            "10대 주거래 업종 중 고객이 직접 선택한 2개 혜택업종의 전가맹점 5% 캐시백",
+            "[선택] 대형마트 5% 캐시백",
+            "[선택] 슈퍼 5% 캐시백",
+            "[선택] 온라인쇼핑 5% 캐시백",
+            "[선택] 통신 5% 캐시백",
+            "[선택] 백화점 5% 캐시백",
+            "[선택] 레저 5% 캐시백",
+            "[선택] 병의원/약국 5% 캐시백",
+            "[선택] 홈쇼핑 5% 캐시백",
+            "[선택] 숙박 5% 캐시백",
+            "[선택] 커피 5% 캐시백",
+            "후불교통 청구할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1964"
+    },
+    {
+        "name": "국민행복카드 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "iM뱅크",
+        "benefits": [
+            "One Card-Multi Service (3가지 중 택 1)\nFor Baby (A type)",
+            "One Card-Multi Service (3가지 중 택 1)\nFor Children (B type)",
+            "One Card-Multi Service (3가지 중 택 1)\nFor Greenren (C type)",
+            "그린카드 멤버십 서비스",
+            "국민행복카드란?",
+            "서비스 이용조건 안내"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/812"
+    },
+    {
+        "name": "내일배움체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "내일배움카드제도란?",
+            "농협운영주유소, NH-Oil 및 GS칼텍스 주유소 할인 또는 적립",
+            "농협판매장 5% NH포인트 적립",
+            "문화 서비스(영화, 커피, 서적) 10% 청구 할인",
+            "국내·외 여행스케치 현장 할인(3~5%)"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/367"
+    },
+    {
+        "name": "라이프+플러스 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우체국",
+        "benefits": [
+            "원하는 카드 유형을 선택하세요!",
+            "[국내 서비스] 온라인 쇼핑, 홈쇼핑 10%",
+            "[국내 서비스] 대형마트, 편의점 10%",
+            "[국내 서비스] 반려동물 10%",
+            "[국내 서비스] 레저/스포츠 10%",
+            "[국내 서비스] 우체국 5%",
+            "[해외 서비스] 해외 전 가맹점 1%",
+            "UniMile(유니마일) 플랫폼 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/575"
+    },
+    {
+        "name": "NH농협 올바른 하나로(Hanaro) 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "NH포인트 0.2% 기본 적립",
+            "농협판매장 NH포인트 추가 적립",
+            "OK Cashbag 제휴서비스",
+            "국제공항 라운지 무료이용"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/532"
+    },
+    {
+        "name": "OK캐쉬백 썸(SUM)타는 우리체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "OK캐쉬백 멤버십 서비스",
+            "G마켓, 옥션 10% 할인",
+            "스타벅스 20% 할인(사이렌오더 포함)\n파리바게뜨, 배스킨라빈스, 던킨도너츠 10% 할인",
+            "맥도날드, 롯데리아, 버거킹, 피자헛, 미스터피자, 도미노피자 10% 할인",
+            "편의점(CU), 올리브영 5% 할인",
+            "CGV, 롯데시네마, 메가박스 10% 할인",
+            "전국 시내버스, 지하철 2천원 할인",
+            "YBM시사(토익응시료 포함), 파고다, 해커스어학원 10% 할인",
+            "휴대전화 요금 3천원 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1258"
+    },
+    {
+        "name": "신한카드 FANtastic S 체크(DRX)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "간편결제(신한플레이) 15% 캐시백",
+            "소셜커머스(쿠팡,티몬) 10% 캐시백",
+            "편의점(CU) 10% 캐시백",
+            "커피(스타벅스) 10% 캐시백",
+            "해외 전 가맹점 이용액(온라인 포함) 1.2% 캐시백\n해외인출 1건당 US $3 캐시백",
+            "마스터카드 플래티늄 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2478"
+    },
+    {
+        "name": "포미 하이브리드 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우체국",
+        "benefits": [
+            "GS25, CU 10% 캐시백,\n이마트, 롯데마트, 홈플러스 10% 캐시백",
+            "삼성페이, 카카오페이, 네이버페이 10% 캐시백",
+            "G마켓, 11번가, 쿠팡 10% 캐시백",
+            "통신료(SKT, KT, LG U+) 3천원 캐시백",
+            "배달의 민족 10% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/572"
+    },
+    {
+        "name": "현대카드X HYBRID",
+        "cate_txt": "체크",
+        "corp_txt": "현대카드",
+        "benefits": [
+            "당월 이용금액별 X캐시백 제공",
+            "체크결제와 신용결제 서비스를 한번에"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/415"
+    },
+    {
+        "name": "밥바라밥 페이북머니 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "BC 바로카드",
+        "benefits": [
+            "종일커피/점심식사/저녁간식 페이북머니 8% 적립",
+            "국내 가맹점 이용금액 0.1% 기부 기금 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2400"
+    },
+    {
+        "name": "부자되세요 더마일리지카드",
+        "cate_txt": "체크",
+        "corp_txt": "제주은행",
+        "benefits": [
+            "5개 온라인몰 5% 청구 할인",
+            "이동통신요금 3% 청구 할인",
+            "대한항공 스카이패스 마일리지 적립 서비스",
+            "영화관 최대 3천원 청구 할인",
+            "패밀리레스토랑 할인\n커피, 음료 이용액 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2170"
+    },
+    {
+        "name": "신세계 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "신세계백화점 입점영화관 토,일요일 2천원 캐시백",
+            "스타벅스 사이즈업 지원 캐시백",
+            "주요 업종 0.5% ~ 1% 마이신한포인트 적립 ",
+            "롯데월드, 서울랜드 50% 할인 "
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/282"
+    },
+    {
+        "name": "에어머니 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "MG새마을금고",
+        "benefits": [
+            "국내 가맹점 이용금액의 0.3% Air Money 적립",
+            "숙박, 면세점, 관광여행, 레저업소 업종 이용 시 3,000원 Air Money 특별적립",
+            "스타벅스, 투썸플레이스, 커피빈 결제 시 500원 Air Money 특별적립",
+            "국내 공항라운지 무료이용",
+            "해외 가맹점 이용(결제)금액의 1% Air Money 적립",
+            "해외이용 수수료 면제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2509"
+    },
+    {
+        "name": "SC제일은행-현대카드 M CHECK",
+        "cate_txt": "체크",
+        "corp_txt": "현대카드",
+        "benefits": [
+            "M포인트 적립",
+            "SC제일은행 혜택",
+            "M포인트 사용"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2430"
+    },
+    {
+        "name": "국민행복 삼성체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "삼성카드",
+        "benefits": [
+            "국민행복 바우처 서비스",
+            "업종 및 연간 이용금액에 따라 0.2%~0.8% 빅포인트 적립",
+            "아웃백스테이크하우스 10% 현장할인",
+            "스타벅스 1,000원 결제일할인",
+            "CGV, 무비존, 메가박스 영화할인",
+            "닥터카서비스",
+            "신세계백화점 5% 할인 및 신세계포인트 적립",
+            "이마트 맘키즈 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/392"
+    },
+    {
+        "name": "다원 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "MG새마을금고",
+        "benefits": [
+            "모든가맹점 0.3% 포인트 적립",
+            "평일 점심시간 1천원 할인",
+            "휴일 대형마트 3천원 할인",
+            "해외이용 수수료 면제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2092"
+    },
+    {
+        "name": "롯데포인트플러스 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "롯데카드",
+        "benefits": [
+            "L.POINT 더블포인트 적립 서비스",
+            "해외이용 안내"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/400"
+    },
+    {
+        "name": "모두의 일상 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "[국내] 전월실적 및 횟수 제한 없이 하나머니 0.3%~0.4% 적립",
+            "[해외] 전월실적 및 횟수 제한 없이 하나머니 0.4% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/690"
+    },
+    {
+        "name": "신한카드 Point Plan 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "[일상 생활비 적립 서비스] 국내 건당 결제금액별 0.2~1% 포인트 적립・해외 결제금액 1% 포인트 적립",
+            "[필수 생활비] 주말 배달앱 적립",
+            "[필수 생활비] 편의점 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2673"
+    },
+    {
+        "name": "신한카드 S-Line 체크(마이펫)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "전 가맹점 이용금액의 0.2% ~ 0.5% 마이신한포인트 적립",
+            "요식업종 이용금액의 5% 할인",
+            "버스, 지하철 이용금액의 5% 할인(후불교통 카드 선택 시)\nSK주유소 주유 시 리터당 40원 할인(후불교통카드 미 선택 시)",
+            "홈쇼핑 이용금액의 5% 할인\n해외 이용금액의 5% 할인",
+            "금융 우대 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/647"
+    },
+    {
+        "name": "신한카드 국민행복 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "병원/약국/산후조리원 5% 결제일 할인",
+            "쿠팡, SSG닷컴, 롯데ON, 11번가, G마켓 5% 결제일 할인",
+            "어린이집/유치원 中 부모부담금,\n학원, 인터넷서점 (YES24, 알라딘, 교보문고) 5% 결제일 할인",
+            "배달의민족, 요기요 5% 결제일 할인",
+            "넷플릭스, 유튜브프리미엄 50% 할인\n네이버-플러스멤버쉽, 쿠팡-로켓와우, 롯데ON-롯데오너스 3천원 할인",
+            "신한카드 국민행복 금융서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/713"
+    },
+    {
+        "name": "LUNCH 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "SK증권",
+        "benefits": [
+            "점심할인 10%(월10회)",
+            "커피할인 10%(월10회)",
+            "편의점할인 10%(월10회)",
+            "할인액의 20%를 추가 할인!"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2215"
+    },
+    {
+        "name": "NEW농촌사랑체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "[Point Pack] NH포인트 최대 0.5% 적립",
+            "[Auto Pack] GS칼텍스 L당 40원 주유할인(LPG제외)",
+            "[Joy Pack] 농협판매장, 놀이공원, 영화, 통신요금 할인",
+            "기타서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/497"
+    },
+    {
+        "name": "다드림 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우체국",
+        "benefits": [
+            "국내 전 가맹점 이용금액의 0.3% 우체국 포인트 적립,\n우편·우체국쇼핑 이용금액의 5% 우체국 포인트 적립",
+            "우체국 알뜰폰 통신료 10% 우체국 포인트 적립",
+            "전국 Oh! point 가맹점에서 적립 또는 사용 가능",
+            "우체국 다드림 통장 우대서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/573"
+    },
+    {
+        "name": "미래에셋증권 체크카드 (캐시백 2)",
+        "cate_txt": "체크",
+        "corp_txt": "미래에셋증권",
+        "benefits": [
+            "혜택 정보가 없습니다."
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2217"
+    },
+    {
+        "name": "쇼퍼홀릭 롯데홈쇼핑 롯데체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "롯데카드",
+        "benefits": [
+            "롯데홈쇼핑 포인트 적립 및 할인쿠폰 제공",
+            "연회비 면제 및 SMS 무료",
+            "미용실 최대 20% 할인",
+            "놀이공원",
+            "롯데 자이언츠 20% 할인",
+            "쇼핑 5% 할인",
+            "롯데시네마 관람료 1,500원 청구할인",
+            "외식",
+            "SK주유소 리터당 SK주유포인트 50원적립",
+            "포인트 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2140"
+    },
+    {
+        "name": "위클리 VISA 롯데체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "롯데카드",
+        "benefits": [
+            "Weekly 캐시백 서비스",
+            "쇼핑",
+            "놀이공원 최대 50% 현장할인",
+            "롯데시네마  1,500원 할인",
+            "외식"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2147"
+    },
+    {
+        "name": "트리플카드",
+        "cate_txt": "체크",
+        "corp_txt": "한패스",
+        "benefits": [
+            "쓸 때마다 무조건 캐시백 해외 3%, 국내 0.3% 지급",
+            "국내·외 상관없이 해외 가맹점이면 결제는 3% 즉시 캐시백",
+            "실적 조건 NO! 결제한 금액만큼 즉시 혜택 제공",
+            "ATM 출금 수수료 무료 혜택",
+            "핸드폰으로 간편하게 충전 가능한 교통카드",
+            "마스터카드 플래티넘 혜택"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2454"
+    },
+    {
+        "name": "페이북 머니 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "BC 바로카드",
+        "benefits": [
+            "[SUPER MONEY] 페이북 결제 시 1% 페이북 머니 적립",
+            "[SPECIAL MONEY] 3대 카테고리 결제 시 0.5% 페이북 머니 적립",
+            "[STANDARD MONEY] 일반 가맹점 결제 시 0.2% 페이북 머니 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2362"
+    },
+    {
+        "name": "하이틴즈 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "IBK기업은행",
+        "benefits": [
+            "라이프 할인서비스(편의점/푸드/음료)",
+            "스터디 할인서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/685"
+    },
+    {
+        "name": "SC제일은행-현대카드 X CHECK",
+        "cate_txt": "체크",
+        "corp_txt": "현대카드",
+        "benefits": [
+            "X캐시백 적립",
+            "SC제일은행 혜택",
+            "X캐시백 사용"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2431"
+    },
+    {
+        "name": "국민행복 삼성체크카드 V2",
+        "cate_txt": "체크",
+        "corp_txt": "삼성카드",
+        "benefits": [
+            "정부지원 국가바우처 이용 가능",
+            "백화점·프리미엄 아울렛·할인점·온라인쇼핑몰·생활잡화·신선식품 배송 2% 캐시백",
+            "의료·산후조리원·학원·학습지·온라인서점·어린이집·유치원 2% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/754"
+    },
+    {
+        "name": "마이 홈플러스 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "홈플러스포인트 0.6% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/479"
+    },
+    {
+        "name": "신한 S-Choice체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "버스,지하철,택시 이용금액의 10% 할인 (캐시백)",
+            "모든 커피 전문점 이용 금액의 20% 할인 (캐시백)",
+            "4대 백화점 및 3대 할인점 이용 금액의 10% 할인 (캐시백)"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/296"
+    },
+    {
+        "name": "신한카드 On 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "간편결제(Pay) 이용 시 최대 2% 적립",
+            "생활편의영역 이용 시 최대 2% 적립 ",
+            "해외 이용금액에 대해 1.3% 적립",
+            "카드 플레이트 선택 가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2343"
+    },
+    {
+        "name": "신한카드 Way 체크(최고심)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "대중교통(버스/지하철) 이용 시 최대 5% 적립",
+            "생활편의영역 이용 시 최대 2% 적립",
+            "해외 이용금액에 대해 1.3% 적립",
+            "카드플레이트 선택 가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2471"
+    },
+    {
+        "name": "오늘은e 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "BNK부산은행",
+        "benefits": [
+            "PAYCO, 삼성페이, 네이버페이, 카카오페이, 썸패스 3% 청구할인",
+            "전국 모든 학원업종 3% 청구할인",
+            "휴대폰 요금 3% 청구할인",
+            "스타벅스 3% 청구할인",
+            "버스, 지하철, 택시요금 3% 청구할인",
+            "롯데시네마 3% 청구할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2506"
+    },
+    {
+        "name": "이지캐시백",
+        "cate_txt": "체크",
+        "corp_txt": "IBK기업은행",
+        "benefits": [
+            "국내외 전 가맹점 이용금액의 0.2% 캐시백\n점심・저녁시간에는 국내 전 가맹점 3배 캐시백",
+            "[금융우대서비스] 전자금융・ATM 출금 및 이체수수료 면제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/748"
+    },
+    {
+        "name": "카카오페이 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "iM뱅크",
+        "benefits": [
+            "카카오페이 이용금액 15% 결제일 캐시백",
+            "G마켓, 옥션, 11번가, 쿠팡, 위메프, 티몬 10% 결제일 캐시백",
+            "오프라인 쇼핑 5% 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/819"
+    },
+    {
+        "name": "LIKIT all 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "롯데카드",
+        "benefits": [
+            "국내(온·오프라인) 가맹점 0.2% 캐시백\n주말 및 공휴일 0.2% 추가 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/756"
+    },
+    {
+        "name": "NAMUH 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH투자증권",
+        "benefits": [
+            "소셜커머스 10% 할인",
+            "커피 10% 할인",
+            "편의점 10% 할인",
+            "택시요금 10% 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2218"
+    },
+    {
+        "name": "NH1934 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "국내·외 전 가맹점 0.2~0.3% 청구할인",
+            "NH1934체크카드 & NH1934우대통장 교차이용 혜택"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/517"
+    },
+    {
+        "name": "TEENS(틴즈) PLUS PONEY 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "CGV 2,000원 현장 할인(월 1회)",
+            "롯데월드, 서울랜드 50% 할인",
+            "배스킨라빈스/던킨도너츠/KFC/버거킹 이용금액의 5% 캐쉬백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/683"
+    },
+    {
+        "name": "카카오페이 KB국민 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "카카오페이결제 2%적립",
+            "커피전문점 업종 이용 시 카카오페이머니 1% 적립",
+            "제과/아이스크림 업종 이용시 카카오페이머니 1% 적립",
+            "CU편의점 이용 시 카카오페이머니 1% 적립",
+            "대중교통(버스,지하철) 이용 시 카카오페이머니 1% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/332"
+    },
+    {
+        "name": "케이뱅크 Hi teen 카드",
+        "cate_txt": "체크",
+        "corp_txt": "케이뱅크",
+        "benefits": [
+            "편의점 업종에서 결제금액 상관없이 이용할 때마다 100원 캐시백",
+            "온라인 업종에서 결제금액 상관없이 이용할 때마다 100원 캐시백",
+            "전월(1일~말일)실적 10만원 이상 및 5회 이상 결제 시 500원 캐시백",
+            "다양한 플레이트 선택 가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2439"
+    },
+    {
+        "name": "현대카드X CHECK",
+        "cate_txt": "체크",
+        "corp_txt": "현대카드",
+        "benefits": [
+            "사용금액별 X캐시백 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/408"
+    },
+    {
+        "name": "IBK 국민행복 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "IBK기업은행",
+        "benefits": [
+            "신청 및 바우처 안내",
+            "선택서비스 : for Green Life Service(C-Type)",
+            "선택서비스 : for Children Service(B-Type)",
+            "선택서비스 : for Baby Service(A-Type)",
+            "그린카드 멤버십서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/442"
+    },
+    {
+        "name": "국민행복체크카드(비씨)",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "국민행복카드란?",
+            "임신출산, 보육료/유아학비 등 지원",
+            "그린카드 멤버십 서비스 (공통서비스)",
+            "공통서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/364"
+    },
+    {
+        "name": "롯데 플래티넘 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "롯데카드",
+        "benefits": [
+            "이용금액의 0.2% L.POINT 적립",
+            "해외이용 안내",
+            "VISA Platinum 국제브랜드 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/402"
+    },
+    {
+        "name": "롯데체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "롯데카드",
+        "benefits": [
+            "전국 가맹점에서 롯데카드 제공 L.POINT 0.2% 적립",
+            "연회비 면제",
+            "해외이용 안내",
+            "청소년후불교통 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2060"
+    },
+    {
+        "name": "올바른GLOBAL체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "해외 물품 구매시 2% 캐시백",
+            "국제공항 라운지 무료이용",
+            "10대 업종 0.5~1.0% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/375"
+    },
+    {
+        "name": "참! 좋은 다이소카드(체크)",
+        "cate_txt": "체크",
+        "corp_txt": "IBK기업은행",
+        "benefits": [
+            "다이소 결제금액의 20% 청구할인\n다이소 멤버십 포인트 자동적립",
+            "쿠팡, 티몬, 위메프 10% 할인",
+            "미용실・이용원 10% 할인",
+            "올리브영, 랄라블라 5% 할인",
+            "CU, GS25, 세븐일레븐 5% 할인",
+            "CGV, 롯데시네마 2천원 할인",
+            "주요 커피전문점 10% 할인",
+            "주요 놀이공원 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2058"
+    },
+    {
+        "name": "DB 캐쉬백 3.1 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "DB금융투자",
+        "benefits": [
+            "모든 가맹점 0.6% 캐쉬백\n금융상품가입 시 최대 2.5% 추가 캐쉬백",
+            "수시입출금의 편리함과 주식거래, 고금리를 하나의 계좌로,\n결제계좌 이체/출금 수수료 면제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2221"
+    },
+    {
+        "name": "L.PAY 하나 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "혜택 정보가 없습니다."
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1523"
+    },
+    {
+        "name": "MULTI Any 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "전가맹점 적립 서비스",
+            "페이결제 적립 서비스",
+            "쇼핑 적립 서비스",
+            "딜리버리 적립 서비스",
+            "대중교통 적립 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2643"
+    },
+    {
+        "name": "SOCAR 제휴 SOCAR 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "SOCAR 결제 시 10% 할인(캐시백)",
+            "영화 이용 시 10% 할인(캐시백)",
+            "KTX, SRT 포함 철도 이용 시 5% 할인(캐시백)",
+            "통합할인한도"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/300"
+    },
+    {
+        "name": "신한카드 Global+ 체크 월리를찾아라",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "국내 전가맹점 이용금액의 0.2% 캐시백",
+            "스타벅스 5% 캐시백",
+            "대중교통 이용금액의 2% 캐시백(버스/지하철)",
+            "해외 전가맹점(온라인 포함) 1.2% 캐시백\n해외 인출 1건당 US $3 캐시백 제공"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2584"
+    },
+    {
+        "name": "카카오페이 신한 춘식이 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "카카오페이 이용 시 적립",
+            "편의점 이용금액에 5% 카카오페이포인트 적립",
+            "통신요금 자동이체 이용금액에 5% 카카오페이포인트 적립",
+            "해외(온라인 포함) 이용금액에 1% 카카오페이포인트 적립",
+            "VISA Platinum"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2638"
+    },
+    {
+        "name": "티머니 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "아웃백·VIPS·TGIF·세븐스프링스\n주중 10%, 주말 15% 환급할인",
+            "CGV·메가박스 20% 환급할인",
+            "에버랜드·서울랜드·롯데월드 30% 환급할인",
+            "커피빈 주중 5%, 주말 10% 환급할인",
+            "제주항공 10% 환급할인",
+            "박승철헤어스투디오·올리브영 10% 환급할인",
+            "교보문고 3% 환급할인",
+            "GS25 5% 환급할인",
+            "금융수수료 면제 서비스",
+            "티머니 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1573"
+    },
+    {
+        "name": "하나멤버스 1Q 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "편의점/베이커리/커피 1만원이상 이용시 건당 5% 하나머니 적립\n대중교통(버스,지하철) 월 사용금액 5만원 이상 시 5% 하나머니 적립",
+            "하나멤버스 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/380"
+    },
+    {
+        "name": "현대카드 Teens",
+        "cate_txt": "체크",
+        "corp_txt": "현대카드",
+        "benefits": [
+            "청소년이 자주 이용하는 4개 영역 2% 청구 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2782"
+    },
+    {
+        "name": "1st TRIPLE 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "전북은행",
+        "benefits": [
+            "TRIPLE 캐시백 서비스",
+            "전북은행 ATM 출금수수료 면제 (월5회)\n카드디자인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2189"
+    },
+    {
+        "name": "K리그 축덕 Young Hana 체크카드 with OKcashbag",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "스타벅스 20%/ 편의점, 영화 10%/ 대중교통, 통신 1천 하나머니 적립\n외식, 쇼핑, 어학시험, 어학원 5% 하나머니 적립 ",
+            "OK캐쉬백 플러스 원클릭 충전 및 자동충전시 1% OK캐쉬백 추가 적립",
+            "해외 ATM 현금인출 수수료 우대"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1526"
+    },
+    {
+        "name": "NEW현대백화점체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "iM뱅크",
+        "benefits": [
+            "현대백화점 이용금액 5% 현장힐인\n현대아울렛 이용금액 5% 캐시백할인",
+            "진에어 항공권 구입금액 5% 캐시백할인",
+            "연간 보너스 캐시백 할인",
+            "현대오일뱅크 리터당 40원 캐시백할인(LPG 포함)",
+            "스타벅스, 커피빈, 엔제리너스 10% 캐시백 할인",
+            "CGV 3천원 ~ 6천원 캐시백 할인",
+            "교보문고/토익응시료 2천원 캐시백할인",
+            "아웃백스테이크하우스 , TGIF 1만원 캐시백 할인",
+            "월간통합 할인한도 및 서비스 제공조건"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/823"
+    },
+    {
+        "name": "리브 NEXT카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "[YUMMY!] 편의점(GS25/CU), 커피/음료 전문점 5% 환급할인",
+            "[Enjoy!] 올리브영, 다이소 결제 시 5% 환급할인",
+            "구글 플레이스토어, 앱스토어 결제 시 5% 환급할인",
+            "다양한 플레이트 선택 가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2399"
+    },
+    {
+        "name": "배달의민족 비장의카드 V.2",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "배달의민족 1,100원 캐시백",
+            "G마켓, 옥션, 우리WON마켓 10% 캐시백",
+            "스타벅스(사이렌오더 포함) 20% 캐시백",
+            "파리바게뜨, 배스킨라빈스, 던킨도너츠 10% 캐시백",
+            "전국 시내버스 지하철 2,000원 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/677"
+    },
+    {
+        "name": "부산 동백전 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "BNK부산은행",
+        "benefits": [
+            "부산시 내 전통시장 이용 시 2% 할인\n부산시 내 일반가맹점 이용 시 0.2% 할인 "
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1202"
+    },
+    {
+        "name": "카카오페이 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "IBK기업은행",
+        "benefits": [
+            "카카오페이 가맹점 이용금액 15% 청구할인",
+            "[On-line 쇼핑] 온라인 쇼핑 10% 청구할인",
+            "[Off-line 쇼핑] 편의점 및 드럭스토어 5% 청구할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2026"
+    },
+    {
+        "name": "토스뱅크 모임카드",
+        "cate_txt": "체크",
+        "corp_txt": "토스뱅크",
+        "benefits": [
+            "우리 모임에 꼭 필요한 혜택만 담았어요\n에피소드 2 : 2024.7.1. ~ 2025.1.31.",
+            "취향대로 골라쓰는 카드"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2456"
+    },
+    {
+        "name": "폼 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "외식 200원 할인・뷰티 500원 할인・대중교통 5% 할인・NH페이 0.2% 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2665"
+    },
+    {
+        "name": "한국투자 the More 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "한국투자증권",
+        "benefits": [
+            "전월 실적 제한없이 국내 가맹점 이용금액의 0.3% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2222"
+    },
+    {
+        "name": "국민행복체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "제주은행",
+        "benefits": [
+            "A-Type(for Baby)\n - 병/의원 조산원, 산후조리원업종(정부지원금 제외) 3% 청구할인 등",
+            "B-Type(for Children)\n - 이동통신요금 자동이체시 1천원 청구할인 등",
+            "C-Type(for Green Life)\n - 국내 가맹점 이용금액 0.2~0.5% 에코머니 포인트 기본 적립 등",
+            "편의점(CU) 최대 7% 청구 할인",
+            "그린카드 멤버십 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2173"
+    },
+    {
+        "name": "내가그린카드",
+        "cate_txt": "체크",
+        "corp_txt": "SBI저축은행",
+        "benefits": [
+            "[할인서비스] 소셜 커머스 5% 할인",
+            "[할인서비스] 대형 온라인몰 5% 할인",
+            "[할인서비스] 점심식사 5% 할인",
+            "[할인서비스] 커피 10% 할인",
+            "[할인서비스] 영화 3천원 할인",
+            "[할인서비스] 공연 3천원 할인",
+            "[할인서비스] 이동통신요금 2천원 할인",
+            "[할인서비스] 서적 5% 할인",
+            "금융 수수료 면제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1985"
+    },
+    {
+        "name": "미타임 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "MG새마을금고",
+        "benefits": [
+            "쇼핑 대상가맹점 결제 시 2,000원 할인",
+            "H&B스토어, 뷰티업종 결제 시 1,000원 할인",
+            "스타벅스, 투썸플레이스, 커피빈, 이디야 결제 시 500원 할인",
+            "해외이용 수수료 면제",
+            "더블혜택 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2510"
+    },
+    {
+        "name": "삼성빅보너스체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "삼성카드",
+        "benefits": [
+            "빅포인트 0.5% 기본적립",
+            "S-OIL 리터당 40 보너스포인트 적립",
+            "프로스포츠 경기 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1623"
+    },
+    {
+        "name": "신세계 하나 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "신세계 백화점 캐시백/적립 서비스",
+            "후불교통 이용금액 7% 캐시백 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/390"
+    },
+    {
+        "name": "신한카드 Global Air 아시아나 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "마일리지 적립 서비스",
+            "해외 인출 1건당 US $3 캐시백 제공",
+            "VISA 플래티늄 서비스 제공"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/643"
+    },
+    {
+        "name": "신한카드 플리(체크)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "[Daily 할인] 국내 이용금액 최대 0.3% 할인, 해외 이용금액 0.2% 할인",
+            "[Weekly 할인 쿠폰] 매월 2회 국내 이용 할인 쿠폰 제공",
+            "[Monthly 단골 적립] My Pick 가맹점 월 3, 6, 9번째 이용 건에 대해 마이신한포인트 1,000포인트 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2372"
+    },
+    {
+        "name": "청소년 후불교통 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "BNK부산은행",
+        "benefits": [
+            "편의점 10% 할인 ",
+            "베이커리 업종 10% 할인\n커피전문점 10% 할인 ",
+            "맥도날드, 롯데리아 10% 할인 ",
+            "온/오프라인 쇼핑 할인 ",
+            "영화관 4천원 할인\n도서 2천원 할인 ",
+            "후불교통기능 "
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1298"
+    },
+    {
+        "name": "토스유스카드(USS)",
+        "cate_txt": "체크",
+        "corp_txt": "토스",
+        "benefits": [
+            "온라인/간편결제 이용가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2314"
+    },
+    {
+        "name": "포인트리체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "GS칼텍스 리터당 주중 50점, 주말 60점 포인트리 적립",
+            "아웃백·VIPS 10% 포인트리 적립",
+            "CGV 3,000원 포인트리 적립",
+            "버스·지하철 5% 포인트리 적립",
+            "이동통신요금 2,500점 포인트리 적립",
+            "G마켓·옥션 3% 포인트리 적립",
+            "교보문고 3% 포인트리 적립",
+            "올리브영 5% 포인트리 적립",
+            "에버랜드 50% 포인트리 적립",
+            "통합적립한도"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/343"
+    },
+    {
+        "name": "하나 국민행복 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "요식/대형마트/백화점/병원/약국/인터넷 쇼핑몰 0.5% 캐시백",
+            "휴대폰 요금 자동이체 3천원 캐쉬백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/750"
+    },
+    {
+        "name": "해피노리체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "버스·지하철 10% 청구할인",
+            "이동통신요금 2,500원 환급할인",
+            "CGV 35% 환급할인",
+            "아웃백, VIPS 20% 환급할인",
+            "스타벅스 20% 환급할인",
+            "에버랜드·롯데월드 50% 환급할인",
+            "GS25 5% 환급할인",
+            "교보문고 5% 환급할인",
+            "해피포인트 5% 현장적립",
+            "금융수수료 면제 서비스",
+            "통합할인한도"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/342"
+    },
+    {
+        "name": "AK우리카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "국내가맹점 이용액 0.1% 우리WON꿀머니(모아포인트) 적립",
+            "스타벅스, 폴바셋 1천원 청구할인",
+            "주요 놀이공원 자유이용권 50% 현장할인",
+            "AK플라자 현장할인과 AK멤버스 마일리지 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/599"
+    },
+    {
+        "name": "BNK 프렌즈 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "BNK부산은행",
+        "benefits": [
+            "국내 이용금액 0.2~0.4% 캐시백 ",
+            "해외 이용금액 1% 캐시백 "
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1311"
+    },
+    {
+        "name": "CJ ONE 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "CGV 영화 예매 시 최대 7,000원 캐시백",
+            "올리브영 10% 캐시백",
+            "CJ ONE 5% 포인트 추가 적립",
+            "CJ mall 5% 캐시백",
+            "VIPS / 계절밥상 10% 캐시백",
+            "투썸플레이스 / 뚜레쥬르 10% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/279"
+    },
+    {
+        "name": "go 캐시백 글로벌 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우체국",
+        "benefits": [
+            "해외 전 가맹점 7% 캐시백",
+            "3대 간편결제 5% 캐시백",
+            "온라인 식품배달 5% 캐시백",
+            "대형마트 5% 캐시백",
+            "우체국 5% 캐시백",
+            "면세점 5% 캐시백",
+            "공항라운지 서비스(연1회 캐시백)",
+            "커피전문점 5% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/668"
+    },
+    {
+        "name": "IBK포인트(체크)",
+        "cate_txt": "체크",
+        "corp_txt": "IBK기업은행",
+        "benefits": [
+            "[기본 적립] 국내・외 가맹점 이용금액의 0.2% 적립",
+            "[추가 적립] 특정가맹점 이용금액의 6% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2783"
+    },
+    {
+        "name": "LIKIT fun 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "롯데카드",
+        "benefits": [
+            "스타벅스, 엔제리너스 1천원 캐시백",
+            "롯데시네마, CGV 2천원 캐시백",
+            "세븐일레븐, GS25, CU 1천원 캐시백",
+            "SKT, KT, LG U+ 2천원 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/755"
+    },
+    {
+        "name": "땡겨요 신한카드 체크(라이더형)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "전가맹점 이용금액 마이신한포인트 0.2% 적립",
+            "주유소 이용금액 마이신한포인트 0.2% 추가 적립",
+            "편의점 이용금액 마이신한포인트 0.2% 추가 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2334"
+    },
+    {
+        "name": "럭키 유카드",
+        "cate_txt": "체크",
+        "corp_txt": "코나카드",
+        "benefits": [
+            "1만원이상 결제시 럭키권 1장 발급",
+            "커피빈 15% 할인",
+            "GS25, 세븐일레븐 10% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2312"
+    },
+    {
+        "name": "롯데마트 라서 즐거운 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "롯데마트 매장 및 롯데마트몰 10% 캐시백 할인 ",
+            "스타벅스, 투썸플레이스 20% 캐시백 할인",
+            "아웃백, TGIF 10% 캐시백 할인",
+            "모든 영화관 3,000원 캐시백 할인",
+            "시내버스, 지하철 1,500원 청구할인",
+            "GS칼텍스 리터당 40원 캐시백 할인",
+            "주요 놀이공원 자유이용권 50% 현장할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/320"
+    },
+    {
+        "name": "신한 Meme(밈) 카드",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "음원/앱스토어/편의점 5% 리워드 적립에 쓸때마다 0.1% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2272"
+    },
+    {
+        "name": "올유닛 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "MG새마을금고",
+        "benefits": [
+            "SKT, KT, LG U+ 결제 시 이용금액의 1% 할인 캐시백",
+            "골프(연습)장, 스크린골프, 스키장, 볼링장, 테니스장, 수영장, 헬스클럽 결제 시 이용금액의 1% 할인 캐시백",
+            " 종합병원, 병/의원, 한의원, 치과, 약국 업종 결제 시 이용금액의 1% 할인 캐시백",
+            "최대이용영역 1% 할인",
+            "해외이용 수수료 면제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2508"
+    },
+    {
+        "name": "참! 좋은 kt wiz 카드[체크]",
+        "cate_txt": "체크",
+        "corp_txt": "IBK기업은행",
+        "benefits": [
+            "쿠팡, 티몬, 위메프 20% 할인",
+            "전국 영화관 및 인터넷 예매 4천원 할인",
+            "패밀리레스토랑, 불고기브라더스, 주요 커피전문점 20% 할인",
+            "주요 놀이공원 무료입장 및 입장료/자유이용권 할인",
+            "케이티 위즈파크 특화서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/794"
+    },
+    {
+        "name": "챔피언 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "유진투자증권",
+        "benefits": [
+            "[기본혜택] 주요편의점 10%캐시백",
+            "[기본혜택] 주요커피전문점 10%캐시백",
+            "선택형 캐시백 혜택(택1)_백화점&마트 캐시백형\n백화점, 주요 할인점 10%캐시백",
+            "선택형 캐시백 혜택(택1)_온라인쇼핑 캐시백형\n대형 온라인 쇼핑몰 10%캐시백",
+            "선택형 캐시백 혜택(택1)_주유 캐시백형\n대형 온라인 쇼핑몰 10%캐시백",
+            "부가혜택 - CMA 서비스\n카드 한 장으로 CMA혜택은 기본, 은행 CD/ATM 출금거래, 체크카드 거래"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2212"
+    },
+    {
+        "name": "청춘날다 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "MG새마을금고",
+        "benefits": [
+            "SKT, KT, LGU+ 이동통신 할인 ",
+            "[WEEKDAY 할인] 월요일 - 스타벅스 1천원 할인",
+            "[WEEKDAY 할인] 화요일 - 쿠팡 2천원 할인",
+            "[WEEKDAY 할인] 수요일 - 편의점 1천원 할인",
+            "[WEEKDAY 할인] 목요일 - 배달의민족 1천원 할인",
+            "[WEEKDAY 할인] 금요일 - CGV 2천원 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2073"
+    },
+    {
+        "name": "카드의정석 칼퇴 CHECK",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "칼퇴(음식점·주점·카페·편의점) 5% 캐시백 (저녁 6~11시 결제 건)",
+            "갓생(헬스·뷰티·전자책) 5% 캐시백",
+            "교통(대중교통·택시·카셰어링) 5% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2760"
+    },
+    {
+        "name": "카카오페이 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "카카오페이 가맹점 이용금액 5% 캐쉬백",
+            "온라인 쇼핑몰 이용금액 5% 캐쉬백",
+            "오프라인 쇼핑 이용금액 5% 캐쉬백",
+            "월간 통합 캐쉬백 한도"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/315"
+    },
+    {
+        "name": "E1 LPG 롯데 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "롯데카드",
+        "benefits": [
+            "E1 LPG 충전소 리터당 47 오렌지포인트 적립",
+            "E1 오렌지카드 서비스",
+            "연회비 면제 및 SMS 무료 서비스",
+            "미용실 최대 20% 할인",
+            "놀이공원 최대 50% 할인",
+            "롯데 자이언츠 20% 할인",
+            "롯데백화점, 롯데ON, 롯데마트, 롯데슈퍼, 토이저러스 혜택",
+            "롯데시네마 할인",
+            "보네스뻬, 보네스뻬브레드, T.G.I.F, 롯데리아, 엔제리너스커피, 나뚜루 할인",
+            "L.POINT"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1932"
+    },
+    {
+        "name": "GS Prime 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "GS리테일 점내 이용 시 GS&POINT 1% 적립",
+            "그 외 모든 가맹점 이용 시 GS&POINT 0.1% 기본 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2589"
+    },
+    {
+        "name": "KB국민 국민행복체크",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "국가바우처",
+            "병원 5% 할인",
+            "키즈카페/문화센터/학습지 5% 청구할인",
+            "단체보험 무료가입"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/752"
+    },
+    {
+        "name": "국민행복체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "BNK부산은행",
+        "benefits": [
+            "국민행복 특화서비스",
+            "의료비 3% 할인",
+            "온라인 쇼핑몰 3% 청구 할인 ",
+            "패밀리 레스토랑 5% 청구 할인 ",
+            "커피 전문점 10% 청구 할인 ",
+            "통신비 1천원 청구 할인 ",
+            "키즈 파크 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1324"
+    },
+    {
+        "name": "그린재킷 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "골프연습장/스크린골프, 골프관광(그린재킷 투어) 5% 환급할인\n골프웨어/골프용품 5% 환급할인",
+            "주유소 5% 환급할인",
+            "보험료 자동납부 5% 환급할인",
+            "해피포인트 멤버쉽 최대 5% 현장적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/770"
+    },
+    {
+        "name": "땡겨요 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "땡겨요 앱 이용금액 마이신한포인트 10% 적립",
+            "스타벅스 이용금액 마이신한포인트 2% 적립",
+            "편의점 이용금액 마이신한포인트 2% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2333"
+    },
+    {
+        "name": "시장愛 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "MG새마을금고",
+        "benefits": [
+            "전통시장 15% 할인",
+            "나들가게 15% 할인",
+            "이동통신요금 2,000원 할인",
+            "교통 5% 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2072"
+    },
+    {
+        "name": "신한카드 On 체크(쥬라기)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "간편결제(Pay) 이용 시 최대 2% 적립",
+            "생활편의영역 이용 시 최대 2% 적립 ",
+            "해외 이용금액에 대해 1.3% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2373"
+    },
+    {
+        "name": "인플카 현대카드 CHECK",
+        "cate_txt": "체크",
+        "corp_txt": "현대카드",
+        "benefits": [
+            "배달앱 1% M포인트 적립",
+            "편의점 1% M포인트 적립",
+            "통신요금 자동이체 1% M포인트 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2417"
+    },
+    {
+        "name": "정 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "롯데·현대·신세계백화점 7% 환급할인",
+            "GS홈쇼핑·CJ홈쇼핑 / G마켓·옥션 5% 환급할인",
+            "미용실·화장품·피부미용 5% 환급할인",
+            "버스·지하철 5% 청구할인",
+            "해외이용 5% 할인 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/345"
+    },
+    {
+        "name": "카카오페이 신한 라이언 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "카카오페이 이용 시 적립",
+            "커피전문점 업종 이용금액에 5% 카카오페이포인트 적립",
+            "대중교통 이용금액에 5% 카카오페이포인트 적립(버스/지하철)",
+            "해외(온라인 포함) 이용금액에 1% 카카오페이포인트 적립",
+            "VISA Platinum"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2637"
+    },
+    {
+        "name": "콕체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "국내·외 가맹점 이용금액 최대 0.5% 적립",
+            "6차 산업 우수 상품에 대해 10% 청구할인",
+            "에코머니 제휴가맹점 에코머니 포인트 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/361"
+    },
+    {
+        "name": "토스 USS NEXT 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "커피 업종 100원 할인",
+            "편의점 200원 할인",
+            "모바일 200원 할인",
+            "배달음식 500원 할인",
+            "대중교통 1,000원 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2625"
+    },
+    {
+        "name": "한화생명 Family 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "SK주유소(LPG포함) 40원/L 청구할인",
+            "전국 버스, 지하철 건당 50원 청구할인",
+            "휴대폰 요금 3% 청구할인",
+            "롯데렌터카 35% 현장할인",
+            "커피/베이커리 5% 청구할인",
+            "한화그룹 계열사 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1699"
+    },
+    {
+        "name": "해피포인트 DGB체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "iM뱅크",
+        "benefits": [
+            "해피포인트 가맹점 할인 및 적립 ",
+            "이동통신요금 자동이체 금액의 3% 결제일 캐시백",
+            "인터넷 영화 예매시 2,000원 결제일 캐시백",
+            "토익응시료 2천원 결제일 캐시백",
+            "전국 주요놀이공원 무료입장 및 자유이용권 50% 할인",
+            "국내면세점 할인쿠폰 서비스",
+            "TOP가맹점 이용시 TOP 포인트 적립",
+            "대경교통카드 서비스 (선택사항)"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/814"
+    },
+    {
+        "name": "해피포인트 우리체크 V.2",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "해피페이 / 해피오더 / 해피마켓 사용 시, 해피포인트 10% 적립\n전월실적 관계없이 사용 횟수에 따라 최대 21,000 해피포인트 적립",
+            "해외 이용금액의 1% 해피포인트 적립",
+            "해피포인트 가맹점 이용액 현장 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/775"
+    },
+    {
+        "name": "GOODGAME 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "게임특화 서비스 NH포인트 적립",
+            "일상생활업종 NH포인트 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2443"
+    },
+    {
+        "name": "KB Pay 머니백카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "KB Pay '다 되는' 적립",
+            "KB Pay 온라인 '더 되는' 적립",
+            "KB Pay 오프라인 '더 되는' 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2614"
+    },
+    {
+        "name": "KT 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "KT 통신요금 월 최대 5천원 캐시백",
+            "GS25 5% 캐시백",
+            "CGV 10% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/301"
+    },
+    {
+        "name": "NC다이노스체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "NC다이노스 홈구장 입장료 현장 할인",
+            "온라인쇼핑 5% 할인",
+            "영화 · 커피 10%할인",
+            "기타 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/372"
+    },
+    {
+        "name": "단디체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "iM뱅크",
+        "benefits": [
+            "전주유소 이용액의 2% 할인(LPG제외)",
+            "전국 주요영화관 1,500원 할인",
+            "주요 패밀리레스토랑 10% 할인",
+            "전국 주요놀이공원 할인",
+            "커피전문점 10% 할인",
+            "인터넷 예매 1,500원 할인",
+            "온라인 서적 인터넷 2,000원 할인",
+            "은행 금융서비스 제공"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/816"
+    },
+    {
+        "name": "라떼 우리체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "커피전문점 1회당 1,000원 할인 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/328"
+    },
+    {
+        "name": "락스타 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "버스·지하철 10% 청구할인",
+            "이동통신요금 2,500원 환급할인",
+            "CGV 35% 환급할인",
+            "아웃백, VIPS / 스타벅스 20% 환급할인",
+            "에버랜드·롯데월드 50% 환급할인",
+            "금융수수료 면제 서비스",
+            "GS25/교보문고 5% 환급할인",
+            "통합할인한도"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/340"
+    },
+    {
+        "name": "새로이 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "GS25 편의점 5% 할인",
+            "쏘카, 야놀자, LiivM 이동통신 5% 할인",
+            "스타벅스, 파리바게뜨 5% 할인",
+            "멜론, 지니, 넷플릭스, 웨이브 월정액 결제시  5% 할인",
+            "교보문고, 어학시험응시료(온라인접수) 5% 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/725"
+    },
+    {
+        "name": "세븐일레븐 멤버십롯데체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "롯데카드",
+        "benefits": [
+            "세븐일레븐에서 결제 시 1,000원당 7포인트 적립",
+            "연회비 면제 및 SMS 무료 서비스",
+            "미용실 최대 20% 할인",
+            "테마파크 최대 50% 할인",
+            "롯데 자이언츠 20% 할인",
+            "롯데멤버스 제휴사 최대 10% 할인",
+            "롯데카드 여행서비스 최대 7% 할인",
+            "외식 10% 할인",
+            "SK주유소 리터당 SK주유포인트 50원적립",
+            "국내 및 해외 가맹점에서 사용한 금액에 대해 L.POINT  0.2% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1714"
+    },
+    {
+        "name": "신한카드 Global+ 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "국내 전가맹점 이용금액의 0.2% 캐시백",
+            "대중교통 이용금액의 2% 캐시백(버스/지하철)",
+            "스타벅스 5% 캐시백",
+            "해외 전 가맹점(온라인 포함) 1.2% 캐시백,\n해외 인출 1건당 US $3 캐시백 제공",
+            "VISA 플래티늄 서비스 제공"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/641"
+    },
+    {
+        "name": "아이부자 카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "교통카드 사용 가능",
+            "30% 소득공제 혜택 제공"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2323"
+    },
+    {
+        "name": "우리V외국인체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "외환 환전 송금 최대 50% 환율 우대\n우리원송금클럽",
+            "CGV 최대 4천원 청구할인",
+            "놀이공원 및 테마파크 30~50% 할인",
+            "대형마트 5% 청구할인",
+            "수수료 면제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1451"
+    },
+    {
+        "name": "우체국 우리동네plus 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우체국",
+        "benefits": [
+            "서비스 타입(Ⅰ·Ⅱ·Ⅲ type) 중 1종 선택하여 발급",
+            "그린카드 멤버십 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1907"
+    },
+    {
+        "name": "이사배 카드",
+        "cate_txt": "체크",
+        "corp_txt": "IBK기업은행",
+        "benefits": [
+            "H&B스토어 최대 2,000원 할인",
+            "화장품 최대 2,000원 할인 ",
+            "미용실, 이용원, 네일샵에서 최대 2,000원 할인 ",
+            "이체수수료 , ATM 수수료 면제 \n환전 시 환율 70% 우대 "
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1170"
+    },
+    {
+        "name": "참! 좋은 글로벌 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "IBK기업은행",
+        "benefits": [
+            "국내/해외 가맹점 이용금액 캐시백 제공"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/444"
+    },
+    {
+        "name": "탐나는J체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "제주은행",
+        "benefits": [
+            "대중교통 10% 청구 할인",
+            "토익 응시료 할인\n도내 서비스 할인 (영어학원, 서점)",
+            "이동통신요금 3% 청구 할인",
+            "편의점(CU) 최대 7% 청구 할인",
+            "패밀리레스토랑(VIPS) 20% 청구 할인\n커피전문점 20% 청구 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2172"
+    },
+    {
+        "name": "탐나는전 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "국내외 가맹점 0.2% 기본 포인트리 적립",
+            "음식점, 커피전문점 업종 0.2% 추가 포인트리 적립",
+            "대중교통(버스·지하철), 택시 0.2% 추가 포인트리 적립",
+            "이동통신요금 0.2% 추가 포인트리 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1572"
+    },
+    {
+        "name": "티니 카드",
+        "cate_txt": "체크",
+        "corp_txt": "롯데카드",
+        "benefits": [
+            "용돈도 신용카드로",
+            "버스와 지하철 충전 없이 탈 수 있어요",
+            "어디서나 간편하게 로카페이로 결제할 수 있어요"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2586"
+    },
+    {
+        "name": "훈 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "문리계·외국어학원 7% 환급할인",
+            "서점업종 5% 환급할인",
+            "동물병원·약국업종 5% 환급할인",
+            "버스·지하철 5% 청구할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/341"
+    },
+    {
+        "name": "JYP Fan’s EDM 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "국내콘서트/공연 예매 및 팬클럽 가입 이용금액의 5% 캐시백",
+            "음원, 스트리밍(멜론, FLO) 이용금액 5% 캐시백",
+            "대중교통(버스-마을, 시내, 시외, 광역, 공항버스/지하철) 이용금액 3% 캐시백",
+            "스타벅스(사이렌오더 포함)/JYP-Soulcup 5% 캐시백",
+            "편의점(GS25), 올리브영 5% 캐시백",
+            "해외 전가맹점(온라인 포함) 이용금액의 1% 캐시백,\n해외인출 1건당 3$ 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/644"
+    },
+    {
+        "name": "KB국민 티머니노리학생증 체크카드(블루_세로형)",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "이동통신요금 2,500원 환급할인",
+            "CGV 35% 환급할인",
+            "아웃백, VIPS 20% 환급할인",
+            "스타벅스 20% 환급할인",
+            "에버랜드·롯데월드 50% 환급할인",
+            "금융수수료 면제 서비스",
+            "GS25 5% 환급할인",
+            "교보문고 5% 환급할인",
+            "KB국민 티머니 체크카드 \n(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1616"
+    },
+    {
+        "name": "KB국민 티머니노리학생증 체크카드(세로형_퍼플)",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "이동통신요금 2,500원 환급할인",
+            "CGV 35% 환급할인",
+            "아웃백, VIPS 20% 환급할인",
+            "스타벅스 20% 환급할인",
+            "에버랜드·롯데월드 50% 환급할인",
+            "금융수수료 면제 서비스",
+            "GS25 5% 환급할인",
+            "교보문고 5% 환급할인",
+            "KB국민 티머니 체크카드 \n(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1615"
+    },
+    {
+        "name": "LIKIT on 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "롯데카드",
+        "benefits": [
+            "온라인 이용 건 3% 캐시백",
+            "쿠팡, 티몬, 위메프, 11번가, 옥션, G마켓 5% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/757"
+    },
+    {
+        "name": "NH올원 NH투자증권체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "전월실적에 상관없이 0.2 ~ 0.4% 적립",
+            "제휴서비스",
+            "SMS 휴대폰 바로알림 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2012"
+    },
+    {
+        "name": "국민행복 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "전북은행",
+        "benefits": [
+            "A-Type \"for Baby Service\"",
+            "B-Type \"for Children Service\""
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2192"
+    },
+    {
+        "name": "넥슨 던전앤파이터 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "넥슨캐시/세라 온라인 충전금액 15% 캐쉬백",
+            "대중교통, 택시 5% 캐쉬백",
+            "온라인쇼팡, 생활영역 5% 캐쉬백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1290"
+    },
+    {
+        "name": "넥슨 현대카드Check",
+        "cate_txt": "체크",
+        "corp_txt": "현대카드",
+        "benefits": [
+            "월 이용금액 50만원 한도까지 실적 조건 없이 0.5% 넥슨 현대카드 포인트 적립",
+            "넥슨 현대카드 CHECK의특별한 디자인을 소개합니다"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2390"
+    },
+    {
+        "name": "다날-유니온페이 모바일카드",
+        "cate_txt": "체크",
+        "corp_txt": "다날",
+        "benefits": [
+            "해외 가맹점 이용 가능",
+            "30% 소득공제 혜택 제공"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2319"
+    },
+    {
+        "name": "리틀프렌즈 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "편의점(CU, GS25, 세븐일레븐) 1천원 캐시백",
+            "서점(영풍문고, 반디앤루니스, 교보문고) 1천원 캐시백",
+            "베이커리(뚜레쥬르, 파리바게뜨, 던킨도너츠) 1천원 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/684"
+    },
+    {
+        "name": "비트윈체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "아웃백·VIPS·TGIF·세븐스프링스",
+            "커피빈 주중 5%, 주말 10% 환급할인",
+            "CGV·메가박스 20% 환급할인",
+            "에버랜드·서울랜드·롯데월드 30% 환급할인",
+            "GS25 5% 환급할인",
+            "버스·지하철 5% 청구할인",
+            "교보문고 3% 환급할인",
+            "박승철헤어스투디오·올리브영 10% 환급할인",
+            "제주항공 10% 환급할인",
+            "금융수수료 면제 서비스",
+            "통합할인한도"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/347"
+    },
+    {
+        "name": "샘 쏘영 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "멜론, YouTube Premium 5% 환급할인",
+            "문구점 5% 환급할인\n독서실 5% 환급할인",
+            "GS25, CU편의점 5% 환급할인",
+            "패스트푸드점 5% 환급할인",
+            "대중교통(버스, 지하철) 5% 청구할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/679"
+    },
+    {
+        "name": "신한카드 Finnq(핀크) 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "핀크머니 0.2% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/698"
+    },
+    {
+        "name": "신한카드 Way 체크(미니언즈 여름)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "대중교통(버스/지하철) 이용 시 최대 5% 적립",
+            "생활편의영역(통신·편의점·생활잡화·디지털컨텐츠·커피) 이용시 2% 적립",
+            "해외 이용금액에 대해 1.3% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2585"
+    },
+    {
+        "name": "신한카드 Way 체크(쥬라기)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "대중교통(버스/지하철) 이용 시 최대 5% 적립",
+            "생활편의영역 이용 시 최대 2% 적립 ",
+            "해외 이용금액에 대해 1.3% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2374"
+    },
+    {
+        "name": "신한카드 봄 체크(도구리)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "국내외 이용금액 월 최대 0.3% 캐시백",
+            "버스/지하철 후불교통 이용금액 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2597"
+    },
+    {
+        "name": "신한카드 봄(체크)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "국내외 이용금액 월 최대 0.3% 캐시백",
+            "버스/지하철 후불교통 이용금액 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2512"
+    },
+    {
+        "name": "어디로든 그린체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "BNK부산은행",
+        "benefits": [
+            "친환경 자동차 충전 최대 20% 적립",
+            "공유 모빌리티 5% 적립",
+            "커피전문점 5% 적립",
+            "국내 전 가맹점 0.1% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2621"
+    },
+    {
+        "name": "일상의 기쁨 Dream 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "IBK기업은행",
+        "benefits": [
+            "버스, 지하철 이용건당 100원 할인",
+            "GS25, CU, 세븐일레븐 5% 할인\n쿠팡, 티몬, 위메프 10% 할인",
+            "CGV, 롯데시네마, 메가박스 4천원 할인",
+            "주요 커피전문점 10% 할인",
+            "금융우대서비스",
+            "주요 놀이공원 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/807"
+    },
+    {
+        "name": "총무 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "한식, 휴게음식점 업종 5% 환급할인 (평일만)",
+            "커피음료전문점 업종 5% 환급할인 (평일만)",
+            "제과아이스크림 업종 5% 환급할인 (평일만)",
+            "대중교통(버스, 지하철) 5% 청구할인",
+            "카드 플레이트 선택"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2530"
+    },
+    {
+        "name": "카카오페이 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "광주은행",
+        "benefits": [
+            "카카오페이 15% 청구할인",
+            "[온라인쇼핑] 온라인쇼핑 10% 청구할인",
+            "[오프라인쇼핑] 편의점 5% 청구할인",
+            "[오프라인쇼핑] 올리브영, 다이소 5% 청구할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1039"
+    },
+    {
+        "name": "카카오페이 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "BNK부산은행",
+        "benefits": [
+            "온/오프라인 쇼핑 할인 ",
+            "카카오페이 15% 청구할인 "
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1323"
+    },
+    {
+        "name": "핀트 카드",
+        "cate_txt": "체크",
+        "corp_txt": "핀트",
+        "benefits": [
+            "전월 실적 없이 최대 0.6% 무제한 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2329"
+    },
+    {
+        "name": "해피락스타 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "버스·지하철 10% 청구할인",
+            "이동통신요금 2,500원 환급할인",
+            "CGV 35% 환급할인",
+            "아웃백, VIPS 20% 환급할인",
+            "스타벅스 20% 환급할인",
+            "에버랜드·롯데월드 50% 환급할인",
+            "GS25 5% 환급할인",
+            "교보문고 5% 환급할인",
+            "해피포인트 5% 현장적립",
+            "금융수수료 면제 서비스",
+            "통합할인한도"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/349"
+    },
+    {
+        "name": "현대백화점 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "iM뱅크",
+        "benefits": [
+            "현대백화점 이용금액 5% 현장할인",
+            "현대오일뱅크(LPG포함) 리터당 40원 결제일 캐시백",
+            "스타벅스, 커피빈, 엔제리너스 10% 결제일 캐시백",
+            "CGV 영화할인",
+            "서적 및 토익응시료 할인",
+            "아웃백, TGIF 결제일 캐시백",
+            "소득공제 보너스 캐시백 제공",
+            "서비스 제공조건"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/810"
+    },
+    {
+        "name": "11번가 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "국내외 가맹점 이용금액 0.1% SK pay 포인트 적립",
+            "11번가에서 SK pay 결제 시 이용금액 0.5% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/491"
+    },
+    {
+        "name": "able 아이맥스카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB증권",
+        "benefits": [
+            "선택1. CMA형 서비스\n선택2. 금융상품형 서비스",
+            "현장할인서비스\n특급호텔, F&B, 유명 레스토랑 Life 스타일 제휴처 현장할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2223"
+    },
+    {
+        "name": "AK KB국민 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "AK특화 서비스",
+            "제주항공 할인",
+            "커피전문점 할인",
+            "영화 할인",
+            "해피포인트 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/357"
+    },
+    {
+        "name": "go 캐시백 글로벌 하이브리드",
+        "cate_txt": "체크",
+        "corp_txt": "우체국",
+        "benefits": [
+            "해외 전 가맹점 7% 캐시백",
+            "3대 간편결제 5% 캐시백",
+            "온라인 식품배달 5% 캐시백",
+            "대형마트 5% 캐시백",
+            "우체국 5% 캐시백",
+            "면세점 5% 캐시백",
+            "공항라운지 서비스(연1회 캐시백)",
+            "커피전문점 5% 캐시백",
+            "하이브리드 후불교통 및 소액신용결제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/767"
+    },
+    {
+        "name": "jumjum(점점) 체크카드(비씨)",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "국내·외 전 가맹점 0.2%~0.4% TOP포인트 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/366"
+    },
+    {
+        "name": "KB국민 티머니노리학생증 체크카드(그린_세로형)",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "이동통신요금 2,500원 환급할인",
+            "CGV 35% 환급할인",
+            "아웃백, VIPS 20% 환급할인",
+            "스타벅스 20% 환급할인",
+            "에버랜드·롯데월드 50% 환급할인",
+            "금융수수료 면제 서비스",
+            "GS25 5% 환급할인",
+            "교보문고 5% 환급할인",
+            "KB국민 티머니 체크카드 \n(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1617"
+    },
+    {
+        "name": "KB국민 티머니노리학생증 체크카드(블루)",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "이동통신요금 2,500원 환급할인",
+            "CGV 35% 환급할인",
+            "아웃백, VIPS 20% 환급할인",
+            "스타벅스 20% 환급할인",
+            "에버랜드·롯데월드 50% 환급할인",
+            "금융수수료 면제 서비스",
+            "GS25 5% 환급할인",
+            "교보문고 5% 환급할인",
+            "KB국민 티머니 체크카드 \n(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1619"
+    },
+    {
+        "name": "L.pay 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "국내/해외 이용금액 0.1% 포인트 적립",
+            "후불교통(버스/지하철) 및 택시, 롯데 더드림영역 이용금액 0.5% 포인트 적립",
+            "특별적립 대상 롯데 더드림영역에서 L.pay 결제시 최대 2.5% 추가 포인트 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/645"
+    },
+    {
+        "name": "Liiv M 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "이동통신요금 5% 환급할인",
+            "11번가 3% 환급할인",
+            "야놀자 3% 환급할인",
+            "CU편의점 3% 환급할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/523"
+    },
+    {
+        "name": "Real Zero 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "Sh수협은행",
+        "benefits": [
+            "금융우대 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1963"
+    },
+    {
+        "name": "SB 팝 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "SBI저축은행",
+        "benefits": [
+            "GS 제휴 혜택 GS&POINT 할인 및 적립, 사용",
+            "[쇼핑할인혜택] GS25 10% 할인",
+            "[쇼핑할인혜택] 온라인쇼핑 5% 할인",
+            "[쇼핑할인혜택] 오프라인쇼핑 5% 할인",
+            "[쇼핑할인혜택] 스타벅스 20% 할인",
+            "추가 금융 혜택"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1977"
+    },
+    {
+        "name": "다이소 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "다이소 20% 캐시백",
+            "GS25 10% 캐시백",
+            "스타벅스 10% 캐시백",
+            "CGV 20% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/759"
+    },
+    {
+        "name": "레고랜드 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "레고랜드 코리아 5% 환급할인",
+            "대중교통(버스/지하철) 10% 환급할인",
+            "SKT, KT, LGU+, LiivM 2,500원 환급할인",
+            "멜론, 지니, 넷플릭스, 웨이브 5% 환급할인",
+            "스타벅스 20% 환급할인",
+            "교보문고 5% 환급할인",
+            "GS25 5% 환급할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2356"
+    },
+    {
+        "name": "머니트리카드",
+        "cate_txt": "체크",
+        "corp_txt": "머니트리",
+        "benefits": [
+            "머니트리카드는 연회비 무료!",
+            "소득공제 30% 혜택",
+            "현금이 없을 때 비상용 카드로 추천",
+            "머니트리카드 사용 tip!"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2650"
+    },
+    {
+        "name": "메가쇼핑체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "BNK부산은행",
+        "benefits": [
+            "전국 주유소 1.2% 캐시백 ",
+            "커피&맥도날드 5% 할인 ",
+            "메가마트 3~7% 캐시백 ",
+            "쇼핑 채널 5% 캐시백 ",
+            "영화관 예매 시 2천원 캐시백",
+            "농심계열사 할인 \n그린서비스 "
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1392"
+    },
+    {
+        "name": "몰테일 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "몰테일(malltail) 배송비 결제 시 3천원 캐시백\n테일리스트(taillist), 비타트라(Vitatra) 5% 즉시 할인 (최대 US $2 할인)",
+            "해외 전 가맹점 이용액 (온라인 포함) 1.2% 캐시백",
+            "해외 인출 1건당 US $3 캐시백",
+            "쿠팡, 티몬 9% 캐시백",
+            "CU 9% 캐시백",
+            "스타벅스 9% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/311"
+    },
+    {
+        "name": "신한카드 FANtastic S 체크(LoL)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "간편결제(신한플레이) 15% 캐시백",
+            "소셜커머스(쿠팡,티몬) 10% 캐시백",
+            "편의점(CU) 10% 캐시백",
+            "커피(스타벅스) 10% 캐시백",
+            "해외 전 가맹점 이용액(온라인 포함) 1.2% 캐시백\n해외인출 1건당 US $3 캐시백",
+            "다양한 플레이트 선택 가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2426"
+    },
+    {
+        "name": "신한카드 Pick I 선불",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "4대 편의점 이용 시 10% 적립",
+            "커피 업종 이용 시 10% 적립",
+            "디지털 구독 영역 이용 시 10% 적립",
+            "One Pick 온라인 쇼핑몰 가맹점 최대 3천 포인트 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2547"
+    },
+    {
+        "name": "신한카드 Way 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "대중교통(버스/지하철) 이용 시 최대 5% 적립",
+            "생활편의영역 이용 시 최대 2% 적립 ",
+            "해외 이용금액에 대해 1.3% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2338"
+    },
+    {
+        "name": "우리성당 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "전국 시내버스, 지하철 1,500원 할인",
+            "병원(동물병원 포함), 약국 5% 할인",
+            "모든 영화관 3천원 할인",
+            "아웃백, TGIF 20% 현장 할인",
+            "스타벅스, 투썸플레이스 20% 할인",
+            "GS칼텍스 40원/L 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1260"
+    },
+    {
+        "name": "위버스 신한카드 체크(ENHYPEN)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "Weverse Shop 이용금액의 2% Weverse Shop 캐시 추가 적립",
+            "생활영역 이용금액의 5% Weverse Shop 캐시 적립",
+            "HYBE INSIGHT 내 매장 결제 시 25% 할인",
+            "카드 디자인 선택가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2246"
+    },
+    {
+        "name": "위버스 신한카드 체크(SEVENTEEN)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "Weverse Shop 이용금액의 2% Weverse Shop 캐시 추가 적립",
+            "생활영역 이용금액의 5% Weverse Shop 캐시 적립",
+            "HYBE INSIGHT 내 매장 결제 시 25% 할인",
+            "카드 디자인 선택가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2247"
+    },
+    {
+        "name": "위버스 신한카드 체크(TXT)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "Weverse Shop 이용금액의 2% Weverse Shop 캐시 추가 적립",
+            "생활영역 이용금액의 5% Weverse Shop 캐시 적립",
+            "HYBE INSIGHT 내 매장 결제 시 25% 할인",
+            "카드 디자인 선택가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2245"
+    },
+    {
+        "name": "음 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "한식 업종 5% 평일 환급할인",
+            "커피전문점, 베이커리, 아이스크림전문점 5% 평일 환급할인",
+            "버스·지하철 5% 청구할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/339"
+    },
+    {
+        "name": "제주도 삼성체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "삼성카드",
+        "benefits": [
+            "제주도 제휴서비스",
+            "S-OIL 리터당 40 보너스포인트 적립",
+            "프로스포츠 경기 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1302"
+    },
+    {
+        "name": "탐나는전 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "제주은행",
+        "benefits": [
+            "국내 가맹점 0.2% 기본 캐시백・제주도 내 가맹점 0.3% 추가 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2668"
+    },
+    {
+        "name": "투썸플레이스 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "투썸플레이스 20% 캐시백",
+            "투썸플레이스 추가 혜택",
+            "OTT 1천원 캐시백",
+            "카드 플레이트 선택 가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2342"
+    },
+    {
+        "name": "핀크카드",
+        "cate_txt": "체크",
+        "corp_txt": "핀크카드",
+        "benefits": [
+            "이용 실적에 따라 최대 1% 적립",
+            "내 소비생활의 중심 핀크계좌 + 핀크카드\nAI핀고의정확한 소비 분석"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2318"
+    },
+    {
+        "name": "함께그린카드",
+        "cate_txt": "체크",
+        "corp_txt": "SBI저축은행",
+        "benefits": [
+            "[할인서비스] 대형마트 5% 할인",
+            "[할인서비스] 전통 시장 5% 할인",
+            "[할인서비스] 유치원 5% 할인",
+            "[할인서비스] 학원 5% 할인",
+            "[할인서비스] 의료비 5% 할인",
+            "[할인서비스] 외식 주중 5%, 주말 10% 할인",
+            "[할인서비스] 영화 2,500원 할인",
+            "[할인서비스] 그린 서비스",
+            "금융 수수료 면제"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1988"
+    },
+    {
+        "name": "해피포인트 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "BNK부산은행",
+        "benefits": [
+            "해피포인트 가맹점 할인 및 적립 ",
+            "패밀리레스토랑 10% 캐시백 ",
+            "편의점 10% 캐시백 ",
+            "영화 2천원 / 서적 3% 캐시백 \n토익시험응시료 캐시백 "
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1438"
+    },
+    {
+        "name": "해피포인트 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "전북은행",
+        "benefits": [
+            "해피포인트 가맹점 할인 서비스",
+            "영화(CGV, 메가박스, 롯데시네마) 2천원 청구할인\n대중교통(버스/지하철) 및 편의점 10% 청구할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2190"
+    },
+    {
+        "name": "현대백화점 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "BNK부산은행",
+        "benefits": [
+            "모든 가맹점 0.2% 캐시백 \n특정업종 추가로 0.2% 캐시백 ",
+            "문화할인 서비스 ",
+            "현대백화점 5% 현장할인 "
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1394"
+    },
+    {
+        "name": "able 시럽카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB증권",
+        "benefits": [
+            "통합멤버십서비스",
+            "모바일쿠폰서비스 최대 3만원",
+            "현장할인서비스\n높은 할인율과 다양한 제휴처!"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2224"
+    },
+    {
+        "name": "AIA생명 롯데 리얼체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "롯데카드",
+        "benefits": [
+            "AIA생명 보험료 결제 시 월 3천원~5천원 할인",
+            "연회비 면제 및 SMS 무료",
+            "미용실 최대 20% 할인",
+            "놀이공원 최대 50% 할인",
+            "롯데 자이언츠 20% 할인",
+            "롯데백화점, 롯데ON, 롯데마트, 롯데슈퍼, 토이저러스 혜택",
+            "여행서비스",
+            "롯데시네마 할인",
+            "보네스뻬, 보네스뻬브레드, T.G.I.F, 롯데리아, 엔제리너스커피, 나뚜루 할인",
+            "L.POINT 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1839"
+    },
+    {
+        "name": "Air Money(에어머니)체크",
+        "cate_txt": "체크",
+        "corp_txt": "NH농협카드",
+        "benefits": [
+            "Air Money 적립",
+            "SMS 바로 알림 서비스 무료제공"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/675"
+    },
+    {
+        "name": "EDIYA 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "EDIYA 특화 할인 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/309"
+    },
+    {
+        "name": "H.Point 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "H.Point 적립",
+            "커피/제과 할인",
+            "CGV 할인",
+            "올리브영 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/355"
+    },
+    {
+        "name": "IBK-Syrup카드[체크]",
+        "cate_txt": "체크",
+        "corp_txt": "IBK기업은행",
+        "benefits": [
+            "모바일쿠폰 서비스",
+            "통합멤버십 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2027"
+    },
+    {
+        "name": "KB국민 티머니 노리 학생증체크카드(퍼플)",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "이동통신요금 2,500원 환급할인",
+            "CGV 35% 환급할인",
+            "아웃백, VIPS 20% 환급할인",
+            "스타벅스 20% 환급할인",
+            "에버랜드·롯데월드 50% 환급할인",
+            "금융수수료 면제 서비스",
+            "GS25 5% 환급할인",
+            "교보문고 5% 환급할인",
+            "KB국민 티머니 체크카드 \n(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1610"
+    },
+    {
+        "name": "KB국민 티머니노리학생증 체크카드(그린)",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "이동통신요금 2,500원 환급할인",
+            "CGV 35% 환급할인",
+            "아웃백, VIPS 20% 환급할인",
+            "스타벅스 20% 환급할인",
+            "에버랜드·롯데월드 50% 환급할인",
+            "금융수수료 면제 서비스",
+            "GS25 5% 환급할인",
+            "교보문고 5% 환급할인",
+            "KB국민 티머니 체크카드 \n(체크카드 혜택 + 티머니서비스 + 멤버십서비스)"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1618"
+    },
+    {
+        "name": "LG U+ 신한카드 Smart 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "LG U+ 통신요금 자동이체 시 최대 3천원 캐시백",
+            "GS25 편의점 5% 캐시백",
+            "맥스무비 최대 2천원 캐시백",
+            "롯데월드/서울랜드 50% 현장할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/302"
+    },
+    {
+        "name": "LG U+ 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "LG U+ 이동통신요금 자동납부 시 4~6천원 환급할인",
+            "스타벅스 10% 환급할인",
+            "CGV 10% 환급할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/354"
+    },
+    {
+        "name": "LGU+ 라서즐거운 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "LG U+ 통신요금 최대 5천원 할인",
+            "패밀리레스토랑 10% 캐시백 할인",
+            "스타벅스, 커피빈 10% 캐시백 할인",
+            "전국 영화관 2천원 캐시백 할인",
+            "주요 놀이공원 자유이용권 50% 현장할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1259"
+    },
+    {
+        "name": "LineageM 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "구글 플레이스토어, 애플 앱스토어, 원스토어 5% 캐시백",
+            "스타벅스 20% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1807"
+    },
+    {
+        "name": "SB 팝 플러스 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "SBI저축은행",
+        "benefits": [
+            "GS 제휴 혜택 GS&POINT 할인 및 적립, 사용",
+            "모든가맹점 최대 0.4% 할인",
+            "추가 금융 혜택"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1979"
+    },
+    {
+        "name": "Syrup Membership Wealth 마이카드(체크)",
+        "cate_txt": "체크",
+        "corp_txt": "SK증권",
+        "benefits": [
+            "CMA 우대금리 0.1% 제공\n업무시간 內 롯데ATM 입/출금 수수료 면제 등"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2214"
+    },
+    {
+        "name": "나마네카드",
+        "cate_txt": "체크",
+        "corp_txt": "아이오로라",
+        "benefits": [
+            "NAMANE 카드 리워드",
+            "30% 소득공제",
+            "나만의 카드 제작"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2313"
+    },
+    {
+        "name": "넥슨 메이플스토리 하나BC 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "넥슨캐시/세라 온라인 충전금액 15% 캐쉬백",
+            "대중교통, 택시 5% 캐쉬백",
+            "온라인쇼팡, 생활영역 5% 캐쉬백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1285"
+    },
+    {
+        "name": "더본 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "빽다방 이용시 20% 결제일 할인(캐시백)\n더본(theborn) 모든 매장 이용 시 5% 결제일 할인(캐시백)",
+            "CGV 예매시 10% 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/307"
+    },
+    {
+        "name": "럭키 더블카드",
+        "cate_txt": "체크",
+        "corp_txt": "코나카드",
+        "benefits": [
+            "1만원 이상 결제마다 럭키권 2장씩 발급",
+            "커피빈 15% 할인",
+            "GS25, 세븐일레븐 10% 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2311"
+    },
+    {
+        "name": "리디 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "리디북스 이용 시 10% 할인(캐시백)",
+            "영화 예매시 10% 할인(캐시백)",
+            "KFC 이용 시 10% 할인(캐시백)"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/306"
+    },
+    {
+        "name": "메가쇼핑 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "메가마트 매장 결제 시 메가포인트 0.5% 적립\n메가마트 자체 추가적립 0.2%, 총 0.7% 적립",
+            "메가마트 제외 모든가맹점 메가포인트 0.1% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/906"
+    },
+    {
+        "name": "시코르 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "하나카드",
+        "benefits": [
+            "시코르 및 신세계 캐쉬백/적립 서비스",
+            "버스/지하철 7% 캐시백 ",
+            "카드 디자인 선택 "
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/389"
+    },
+    {
+        "name": "신한카드 Pick E 선불",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "4대 편의점 10% 적립",
+            "커피 업종 10% 적립",
+            "놀이 영역 이용 시 10% 적립",
+            "One Pick 맛집 가맹점 최대 3천 포인트 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2546"
+    },
+    {
+        "name": "쏙쏙 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "유진투자증권",
+        "benefits": [
+            "온라인 어디서나 10% 캐시백 (통합 월간 캐시백 한도 내)\n가맹점 상관없이 온라인 결제시 어디서나 10% 캐시백 혜택 제공"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2213"
+    },
+    {
+        "name": "아모레퍼시픽 신한카드 체크",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "아모레퍼시픽 이용 시 뷰티포인트 8% 적립",
+            "[특화 가맹점] 대형마트 이용 시 뷰티포인트 3% 적립",
+            "[특화 가맹점] 백화점 이용 시 뷰티포인트 3% 적립",
+            "[특화가맹점] 면세점/일반전문학원/커피전문점/이·미용/주유소(LPG 충전소 포함) 업종 뷰티포인트 3% 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2341"
+    },
+    {
+        "name": "아모레퍼시픽 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "아모레퍼시픽 가맹점 10% 환급할인",
+            "스타벅스 10% 환급할인",
+            "해피포인트 가맹점 5% 환급할인",
+            "GS리테일POP서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/359"
+    },
+    {
+        "name": "위버스 신한카드 체크(BTS)",
+        "cate_txt": "체크",
+        "corp_txt": "신한카드",
+        "benefits": [
+            "Weverse Shop 이용금액의 2% Weverse Shop 캐시 추가 적립",
+            "생활영역 이용금액의 5% Weverse Shop 캐시 적립",
+            "HYBE INSIGHT 내 매장 결제 시 25% 할인",
+            "카드 디자인 선택가능"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2244"
+    },
+    {
+        "name": "유안타 CMA+ 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "유안타증권",
+        "benefits": [
+            "카드이용금액의 최대 연 5% 캐시백 제공"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2193"
+    },
+    {
+        "name": "유안타 Daily+ 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "유안타증권",
+        "benefits": [
+            "전월 실적에 따라 5% ~ 최대 20% 다양한 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2194"
+    },
+    {
+        "name": "유안타 Stock+ 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "유안타증권",
+        "benefits": [
+            "주식 약정별 카드사용금액의 0.5~1.0% 캐시백 제공"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1912"
+    },
+    {
+        "name": "제주그린체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "제주은행",
+        "benefits": [
+            "영화입장권 2,000원 청구할인 서비스",
+            "커피전문점 10% 청구할인 서비스",
+            "기본적립 전국 가맹점 국내 가맹점 이용금액 0.2~0.5% 에코머니 포인트 적립",
+            "그린카드 특화서비스 (모든 그린카드 제공되는 공통서비스)",
+            "그린카드 멤버십 서비스"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2174"
+    },
+    {
+        "name": "제주삼다수 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "제주은행",
+        "benefits": [
+            "대중교통 할인",
+            "토익 응시료 할인\n도내 서비스 할인 (영어학원, 서점)",
+            "휴대폰 통신 요금 할인",
+            "CU편의점 1만원 이상 결제시 2% ~ 7% 청구 할인",
+            "CGV, 메가박스, 롯데시네마 이용시 1,500원~3,000원 청구 할인",
+            "패밀리레스토랑 할인\n커피, 음료 이용액 할인"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/2165"
+    },
+    {
+        "name": "카드의정석 U+알뜰모바일 CHECK",
+        "cate_txt": "체크",
+        "corp_txt": "우리카드",
+        "benefits": [
+            "U+알뜰모바일 이동통신료 자동이체 캐시백"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/1256"
+    },
+    {
+        "name": "해피CU포인트 체크카드",
+        "cate_txt": "체크",
+        "corp_txt": "KB국민카드",
+        "benefits": [
+            "CU편의점, 해피포인트 가맹점 2%적립",
+            "대중교통(버스,지하철)/택시업종 1% 포인트리 적립"
+        ],
+        "page_url": "https://www.card-gorilla.com/card/detail/353"
+    }
+]
